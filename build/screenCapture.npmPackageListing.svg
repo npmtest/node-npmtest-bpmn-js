@@ -1,622 +1,622 @@
 <svg height="9902" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="9902" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 00:35:41 +0000  2481248 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 00:35:41 +0000     2145 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 00:35:41 +0000     2808 bytes  Gruntfile.js</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 00:35:41 +0000     1398 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 00:35:41 +0000     3358 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 00:35:41 +0000    83861 bytes  assets/bpmn-font/css/bpmn-embedded.css</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 00:35:41 +0000     9494 bytes  assets/bpmn-font/css/bpmn.css</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 00:35:41 +0000    41724 bytes  assets/bpmn-font/font/bpmn.eot</tspan>
-<tspan x="10" y="154">  8.  2017-04-18 00:35:41 +0000   132960 bytes  assets/bpmn-font/font/bpmn.svg</tspan>
-<tspan x="10" y="170">  9.  2017-04-18 00:35:41 +0000    41572 bytes  assets/bpmn-font/font/bpmn.ttf</tspan>
-<tspan x="10" y="186"> 10.  2017-04-18 00:35:41 +0000    14248 bytes  assets/bpmn-font/font/bpmn.woff</tspan>
-<tspan x="10" y="202"> 11.  2017-04-18 00:35:41 +0000     5449 bytes  docs/architecture/overview.svg</tspan>
-<tspan x="10" y="218"> 12.  2017-04-18 00:35:41 +0000     2195 bytes  docs/project/COMMIT_MESSAGES.md</tspan>
-<tspan x="10" y="234"> 13.  2017-04-18 00:35:41 +0000     2016 bytes  docs/project/SETUP.md</tspan>
-<tspan x="10" y="250"> 14.  2017-04-18 00:35:41 +0000      659 bytes  docs/project/setup-alternative.sh</tspan>
-<tspan x="10" y="266"> 15.  2017-04-18 00:35:41 +0000      717 bytes  docs/project/setup.bat</tspan>
-<tspan x="10" y="282"> 16.  2017-04-18 00:35:41 +0000      546 bytes  docs/project/setup.sh</tspan>
-<tspan x="10" y="298"> 17.  2017-04-18 00:35:41 +0000     2976 bytes  docs/translations.json</tspan>
-<tspan x="10" y="314"> 18.  2017-04-18 00:35:41 +0000       41 bytes  index.js</tspan>
-<tspan x="10" y="330"> 19.  2017-04-18 00:35:41 +0000     6046 bytes  lib/Modeler.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-18 00:35:41 +0000      608 bytes  lib/NavigatedViewer.js</tspan>
-<tspan x="10" y="362"> 21.  2017-04-18 00:35:41 +0000    12345 bytes  lib/Viewer.js</tspan>
-<tspan x="10" y="378"> 22.  2017-04-18 00:35:41 +0000       91 bytes  lib/core/index.js</tspan>
-<tspan x="10" y="394"> 23.  2017-04-18 00:35:41 +0000    51773 bytes  lib/draw/BpmnRenderer.js</tspan>
-<tspan x="10" y="410"> 24.  2017-04-18 00:35:41 +0000    18381 bytes  lib/draw/PathMap.js</tspan>
-<tspan x="10" y="426"> 25.  2017-04-18 00:35:41 +0000      153 bytes  lib/draw/index.js</tspan>
-<tspan x="10" y="442"> 26.  2017-04-18 00:35:41 +0000      884 bytes  lib/features/auto-resize/BpmnAutoResize.js</tspan>
-<tspan x="10" y="458"> 27.  2017-04-18 00:35:41 +0000     1138 bytes  lib/features/auto-resize/BpmnAutoResizeProvider.\</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 00:36:45 +0000  2481248 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 00:36:45 +0000     2145 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 00:36:45 +0000     2808 bytes  Gruntfile.js</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 00:36:45 +0000     1398 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 00:36:45 +0000     3358 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 00:36:45 +0000    83861 bytes  assets/bpmn-font/css/bpmn-embedded.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 00:36:45 +0000     9494 bytes  assets/bpmn-font/css/bpmn.css</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 00:36:45 +0000    41724 bytes  assets/bpmn-font/font/bpmn.eot</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 00:36:45 +0000   132960 bytes  assets/bpmn-font/font/bpmn.svg</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 00:36:45 +0000    41572 bytes  assets/bpmn-font/font/bpmn.ttf</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 00:36:45 +0000    14248 bytes  assets/bpmn-font/font/bpmn.woff</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 00:36:45 +0000     5449 bytes  docs/architecture/overview.svg</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 00:36:45 +0000     2195 bytes  docs/project/COMMIT_MESSAGES.md</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 00:36:45 +0000     2016 bytes  docs/project/SETUP.md</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 00:36:45 +0000      659 bytes  docs/project/setup-alternative.sh</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 00:36:45 +0000      717 bytes  docs/project/setup.bat</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 00:36:45 +0000      546 bytes  docs/project/setup.sh</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 00:36:45 +0000     2976 bytes  docs/translations.json</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 00:36:45 +0000       41 bytes  index.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 00:36:45 +0000     6046 bytes  lib/Modeler.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 00:36:45 +0000      608 bytes  lib/NavigatedViewer.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 00:36:45 +0000    12345 bytes  lib/Viewer.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 00:36:45 +0000       91 bytes  lib/core/index.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 00:36:45 +0000    51773 bytes  lib/draw/BpmnRenderer.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 00:36:45 +0000    18381 bytes  lib/draw/PathMap.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 00:36:45 +0000      153 bytes  lib/draw/index.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 00:36:45 +0000      884 bytes  lib/features/auto-resize/BpmnAutoResize.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 00:36:45 +0000     1138 bytes  lib/features/auto-resize/BpmnAutoResizeProvider.\</tspan>
 <tspan x="10" y="474">js</tspan>
-<tspan x="10" y="490"> 28.  2017-04-18 00:35:41 +0000      215 bytes  lib/features/auto-resize/index.js</tspan>
-<tspan x="10" y="506"> 29.  2017-04-18 00:35:41 +0000    10342 bytes  lib/features/context-pad/ContextPadProvider.js</tspan>
-<tspan x="10" y="522"> 30.  2017-04-18 00:35:41 +0000      415 bytes  lib/features/context-pad/index.js</tspan>
-<tspan x="10" y="538"> 31.  2017-04-18 00:35:41 +0000     3983 bytes  lib/features/copy-paste/BpmnCopyPaste.js</tspan>
-<tspan x="10" y="554"> 32.  2017-04-18 00:35:41 +0000      183 bytes  lib/features/copy-paste/index.js</tspan>
-<tspan x="10" y="570"> 33.  2017-04-18 00:35:41 +0000      894 bytes  lib/features/distribute-elements/BpmnDistributeE\</tspan>
+<tspan x="10" y="490"> 28.  2017-04-18 00:36:45 +0000      215 bytes  lib/features/auto-resize/index.js</tspan>
+<tspan x="10" y="506"> 29.  2017-04-18 00:36:45 +0000    10342 bytes  lib/features/context-pad/ContextPadProvider.js</tspan>
+<tspan x="10" y="522"> 30.  2017-04-18 00:36:45 +0000      415 bytes  lib/features/context-pad/index.js</tspan>
+<tspan x="10" y="538"> 31.  2017-04-18 00:36:45 +0000     3983 bytes  lib/features/copy-paste/BpmnCopyPaste.js</tspan>
+<tspan x="10" y="554"> 32.  2017-04-18 00:36:45 +0000      183 bytes  lib/features/copy-paste/index.js</tspan>
+<tspan x="10" y="570"> 33.  2017-04-18 00:36:45 +0000      894 bytes  lib/features/distribute-elements/BpmnDistributeE\</tspan>
 <tspan x="10" y="586">lements.js</tspan>
-<tspan x="10" y="602"> 34.  2017-04-18 00:35:41 +0000      219 bytes  lib/features/distribute-elements/index.js</tspan>
-<tspan x="10" y="618"> 35.  2017-04-18 00:35:41 +0000     3190 bytes  lib/features/editor-actions/BpmnEditorActions.js</tspan>
-<tspan x="10" y="634"> 36.  2017-04-18 00:35:41 +0000      522 bytes  lib/features/editor-actions/index.js</tspan>
-<tspan x="10" y="650"> 37.  2017-04-18 00:35:41 +0000      959 bytes  lib/features/global-connect/BpmnGlobalConnect.js</tspan>
-<tspan x="10" y="666"> 38.  2017-04-18 00:35:41 +0000      199 bytes  lib/features/global-connect/index.js</tspan>
-<tspan x="10" y="682"> 39.  2017-04-18 00:35:41 +0000     1354 bytes  lib/features/keyboard/BpmnKeyBindings.js</tspan>
-<tspan x="10" y="698"> 40.  2017-04-18 00:35:41 +0000      187 bytes  lib/features/keyboard/index.js</tspan>
-<tspan x="10" y="714"> 41.  2017-04-18 00:35:41 +0000     5092 bytes  lib/features/label-editing/LabelEditingProvider.\</tspan>
+<tspan x="10" y="602"> 34.  2017-04-18 00:36:45 +0000      219 bytes  lib/features/distribute-elements/index.js</tspan>
+<tspan x="10" y="618"> 35.  2017-04-18 00:36:45 +0000     3190 bytes  lib/features/editor-actions/BpmnEditorActions.js</tspan>
+<tspan x="10" y="634"> 36.  2017-04-18 00:36:45 +0000      522 bytes  lib/features/editor-actions/index.js</tspan>
+<tspan x="10" y="650"> 37.  2017-04-18 00:36:45 +0000      959 bytes  lib/features/global-connect/BpmnGlobalConnect.js</tspan>
+<tspan x="10" y="666"> 38.  2017-04-18 00:36:45 +0000      199 bytes  lib/features/global-connect/index.js</tspan>
+<tspan x="10" y="682"> 39.  2017-04-18 00:36:45 +0000     1354 bytes  lib/features/keyboard/BpmnKeyBindings.js</tspan>
+<tspan x="10" y="698"> 40.  2017-04-18 00:36:45 +0000      187 bytes  lib/features/keyboard/index.js</tspan>
+<tspan x="10" y="714"> 41.  2017-04-18 00:36:45 +0000     5092 bytes  lib/features/label-editing/LabelEditingProvider.\</tspan>
 <tspan x="10" y="730">js</tspan>
-<tspan x="10" y="746"> 42.  2017-04-18 00:35:41 +0000      876 bytes  lib/features/label-editing/LabelUtil.js</tspan>
-<tspan x="10" y="762"> 43.  2017-04-18 00:35:41 +0000     2539 bytes  lib/features/label-editing/cmd/UpdateLabelHandle\</tspan>
+<tspan x="10" y="746"> 42.  2017-04-18 00:36:45 +0000      876 bytes  lib/features/label-editing/LabelUtil.js</tspan>
+<tspan x="10" y="762"> 43.  2017-04-18 00:36:45 +0000     2539 bytes  lib/features/label-editing/cmd/UpdateLabelHandle\</tspan>
 <tspan x="10" y="778">r.js</tspan>
-<tspan x="10" y="794"> 44.  2017-04-18 00:35:41 +0000      288 bytes  lib/features/label-editing/index.js</tspan>
-<tspan x="10" y="810"> 45.  2017-04-18 00:35:41 +0000     2583 bytes  lib/features/modeling/BpmnFactory.js</tspan>
-<tspan x="10" y="826"> 46.  2017-04-18 00:35:41 +0000     4527 bytes  lib/features/modeling/BpmnLayouter.js</tspan>
-<tspan x="10" y="842"> 47.  2017-04-18 00:35:41 +0000    17905 bytes  lib/features/modeling/BpmnUpdater.js</tspan>
-<tspan x="10" y="858"> 48.  2017-04-18 00:35:41 +0000     5372 bytes  lib/features/modeling/ElementFactory.js</tspan>
-<tspan x="10" y="874"> 49.  2017-04-18 00:35:41 +0000     4449 bytes  lib/features/modeling/Modeling.js</tspan>
-<tspan x="10" y="890"> 50.  2017-04-18 00:35:41 +0000     1016 bytes  lib/features/modeling/behavior/AppendBehavior.js</tspan>
-<tspan x="10" y="906"> 51.  2017-04-18 00:35:41 +0000     1906 bytes  lib/features/modeling/behavior/CopyPasteBehavior\</tspan>
+<tspan x="10" y="794"> 44.  2017-04-18 00:36:45 +0000      288 bytes  lib/features/label-editing/index.js</tspan>
+<tspan x="10" y="810"> 45.  2017-04-18 00:36:45 +0000     2583 bytes  lib/features/modeling/BpmnFactory.js</tspan>
+<tspan x="10" y="826"> 46.  2017-04-18 00:36:45 +0000     4527 bytes  lib/features/modeling/BpmnLayouter.js</tspan>
+<tspan x="10" y="842"> 47.  2017-04-18 00:36:45 +0000    17905 bytes  lib/features/modeling/BpmnUpdater.js</tspan>
+<tspan x="10" y="858"> 48.  2017-04-18 00:36:45 +0000     5372 bytes  lib/features/modeling/ElementFactory.js</tspan>
+<tspan x="10" y="874"> 49.  2017-04-18 00:36:45 +0000     4449 bytes  lib/features/modeling/Modeling.js</tspan>
+<tspan x="10" y="890"> 50.  2017-04-18 00:36:45 +0000     1016 bytes  lib/features/modeling/behavior/AppendBehavior.js</tspan>
+<tspan x="10" y="906"> 51.  2017-04-18 00:36:45 +0000     1906 bytes  lib/features/modeling/behavior/CopyPasteBehavior\</tspan>
 <tspan x="10" y="922">.js</tspan>
-<tspan x="10" y="938"> 52.  2017-04-18 00:35:41 +0000     1269 bytes  lib/features/modeling/behavior/CreateBoundaryEve\</tspan>
+<tspan x="10" y="938"> 52.  2017-04-18 00:36:45 +0000     1269 bytes  lib/features/modeling/behavior/CreateBoundaryEve\</tspan>
 <tspan x="10" y="954">ntBehavior.js</tspan>
-<tspan x="10" y="970"> 53.  2017-04-18 00:35:41 +0000      969 bytes  lib/features/modeling/behavior/CreateDataObjectB\</tspan>
+<tspan x="10" y="970"> 53.  2017-04-18 00:36:45 +0000      969 bytes  lib/features/modeling/behavior/CreateDataObjectB\</tspan>
 <tspan x="10" y="986">ehavior.js</tspan>
-<tspan x="10" y="1002"> 54.  2017-04-18 00:35:41 +0000     2458 bytes  lib/features/modeling/behavior/CreateParticipant\</tspan>
+<tspan x="10" y="1002"> 54.  2017-04-18 00:36:45 +0000     2458 bytes  lib/features/modeling/behavior/CreateParticipant\</tspan>
 <tspan x="10" y="1018">Behavior.js</tspan>
-<tspan x="10" y="1034"> 55.  2017-04-18 00:35:41 +0000     3849 bytes  lib/features/modeling/behavior/DataInputAssociat\</tspan>
+<tspan x="10" y="1034"> 55.  2017-04-18 00:36:45 +0000     3849 bytes  lib/features/modeling/behavior/DataInputAssociat\</tspan>
 <tspan x="10" y="1050">ionBehavior.js</tspan>
-<tspan x="10" y="1066"> 56.  2017-04-18 00:35:41 +0000     2383 bytes  lib/features/modeling/behavior/DeleteLaneBehavio\</tspan>
+<tspan x="10" y="1066"> 56.  2017-04-18 00:36:45 +0000     2383 bytes  lib/features/modeling/behavior/DeleteLaneBehavio\</tspan>
 <tspan x="10" y="1082">r.js</tspan>
-<tspan x="10" y="1098"> 57.  2017-04-18 00:35:41 +0000     3318 bytes  lib/features/modeling/behavior/DropOnFlowBehavio\</tspan>
+<tspan x="10" y="1098"> 57.  2017-04-18 00:36:45 +0000     3318 bytes  lib/features/modeling/behavior/DropOnFlowBehavio\</tspan>
 <tspan x="10" y="1114">r.js</tspan>
-<tspan x="10" y="1130"> 58.  2017-04-18 00:35:41 +0000     1875 bytes  lib/features/modeling/behavior/ImportDockingFix.\</tspan>
+<tspan x="10" y="1130"> 58.  2017-04-18 00:36:45 +0000     1875 bytes  lib/features/modeling/behavior/ImportDockingFix.\</tspan>
 <tspan x="10" y="1146">js</tspan>
-<tspan x="10" y="1162"> 59.  2017-04-18 00:35:41 +0000     5534 bytes  lib/features/modeling/behavior/LabelBehavior.js</tspan>
-<tspan x="10" y="1178"> 60.  2017-04-18 00:35:41 +0000     1352 bytes  lib/features/modeling/behavior/ModelingFeedback.\</tspan>
+<tspan x="10" y="1162"> 59.  2017-04-18 00:36:45 +0000     5534 bytes  lib/features/modeling/behavior/LabelBehavior.js</tspan>
+<tspan x="10" y="1178"> 60.  2017-04-18 00:36:45 +0000     1352 bytes  lib/features/modeling/behavior/ModelingFeedback.\</tspan>
 <tspan x="10" y="1194">js</tspan>
-<tspan x="10" y="1210"> 61.  2017-04-18 00:35:41 +0000     1832 bytes  lib/features/modeling/behavior/RemoveElementBeha\</tspan>
+<tspan x="10" y="1210"> 61.  2017-04-18 00:36:45 +0000     1832 bytes  lib/features/modeling/behavior/RemoveElementBeha\</tspan>
 <tspan x="10" y="1226">vior.js</tspan>
-<tspan x="10" y="1242"> 62.  2017-04-18 00:35:41 +0000     1216 bytes  lib/features/modeling/behavior/RemoveParticipant\</tspan>
+<tspan x="10" y="1242"> 62.  2017-04-18 00:36:45 +0000     1216 bytes  lib/features/modeling/behavior/RemoveParticipant\</tspan>
 <tspan x="10" y="1258">Behavior.js</tspan>
-<tspan x="10" y="1274"> 63.  2017-04-18 00:35:41 +0000     3424 bytes  lib/features/modeling/behavior/ReplaceConnection\</tspan>
+<tspan x="10" y="1274"> 63.  2017-04-18 00:36:45 +0000     3424 bytes  lib/features/modeling/behavior/ReplaceConnection\</tspan>
 <tspan x="10" y="1290">Behavior.js</tspan>
-<tspan x="10" y="1306"> 64.  2017-04-18 00:35:41 +0000     3393 bytes  lib/features/modeling/behavior/ReplaceElementBeh\</tspan>
+<tspan x="10" y="1306"> 64.  2017-04-18 00:36:45 +0000     3393 bytes  lib/features/modeling/behavior/ReplaceElementBeh\</tspan>
 <tspan x="10" y="1322">aviour.js</tspan>
-<tspan x="10" y="1338"> 65.  2017-04-18 00:35:41 +0000     1650 bytes  lib/features/modeling/behavior/ResizeLaneBehavio\</tspan>
+<tspan x="10" y="1338"> 65.  2017-04-18 00:36:45 +0000     1650 bytes  lib/features/modeling/behavior/ResizeLaneBehavio\</tspan>
 <tspan x="10" y="1354">r.js</tspan>
-<tspan x="10" y="1370"> 66.  2017-04-18 00:35:41 +0000     3681 bytes  lib/features/modeling/behavior/ToggleElementColl\</tspan>
+<tspan x="10" y="1370"> 66.  2017-04-18 00:36:45 +0000     3681 bytes  lib/features/modeling/behavior/ToggleElementColl\</tspan>
 <tspan x="10" y="1386">apseBehaviour.js</tspan>
-<tspan x="10" y="1402"> 67.  2017-04-18 00:35:41 +0000      684 bytes  lib/features/modeling/behavior/UnclaimIdBehavior\</tspan>
+<tspan x="10" y="1402"> 67.  2017-04-18 00:36:45 +0000      684 bytes  lib/features/modeling/behavior/UnclaimIdBehavior\</tspan>
 <tspan x="10" y="1418">.js</tspan>
-<tspan x="10" y="1434"> 68.  2017-04-18 00:35:41 +0000     1377 bytes  lib/features/modeling/behavior/UnsetDefaultFlowB\</tspan>
+<tspan x="10" y="1434"> 68.  2017-04-18 00:36:45 +0000     1377 bytes  lib/features/modeling/behavior/UnsetDefaultFlowB\</tspan>
 <tspan x="10" y="1450">ehavior.js</tspan>
-<tspan x="10" y="1466"> 69.  2017-04-18 00:35:41 +0000     2854 bytes  lib/features/modeling/behavior/UpdateFlowNodeRef\</tspan>
+<tspan x="10" y="1466"> 69.  2017-04-18 00:36:45 +0000     2854 bytes  lib/features/modeling/behavior/UpdateFlowNodeRef\</tspan>
 <tspan x="10" y="1482">sBehavior.js</tspan>
-<tspan x="10" y="1498"> 70.  2017-04-18 00:35:41 +0000     2095 bytes  lib/features/modeling/behavior/index.js</tspan>
-<tspan x="10" y="1514"> 71.  2017-04-18 00:35:41 +0000     2797 bytes  lib/features/modeling/behavior/util/GeometricUti\</tspan>
+<tspan x="10" y="1498"> 70.  2017-04-18 00:36:45 +0000     2095 bytes  lib/features/modeling/behavior/index.js</tspan>
+<tspan x="10" y="1514"> 71.  2017-04-18 00:36:45 +0000     2797 bytes  lib/features/modeling/behavior/util/GeometricUti\</tspan>
 <tspan x="10" y="1530">l.js</tspan>
-<tspan x="10" y="1546"> 72.  2017-04-18 00:35:41 +0000     5921 bytes  lib/features/modeling/behavior/util/LabelLayoutU\</tspan>
+<tspan x="10" y="1546"> 72.  2017-04-18 00:36:45 +0000     5921 bytes  lib/features/modeling/behavior/util/LabelLayoutU\</tspan>
 <tspan x="10" y="1562">til.js</tspan>
-<tspan x="10" y="1578"> 73.  2017-04-18 00:35:41 +0000     5245 bytes  lib/features/modeling/behavior/util/LineAttachme\</tspan>
+<tspan x="10" y="1578"> 73.  2017-04-18 00:36:45 +0000     5245 bytes  lib/features/modeling/behavior/util/LineAttachme\</tspan>
 <tspan x="10" y="1594">ntUtil.js</tspan>
-<tspan x="10" y="1610"> 74.  2017-04-18 00:35:41 +0000      978 bytes  lib/features/modeling/behavior/util/LineIntersec\</tspan>
+<tspan x="10" y="1610"> 74.  2017-04-18 00:36:45 +0000      978 bytes  lib/features/modeling/behavior/util/LineIntersec\</tspan>
 <tspan x="10" y="1626">t.js</tspan>
-<tspan x="10" y="1642"> 75.  2017-04-18 00:35:41 +0000     2379 bytes  lib/features/modeling/cmd/AddLaneHandler.js</tspan>
-<tspan x="10" y="1658"> 76.  2017-04-18 00:35:41 +0000      720 bytes  lib/features/modeling/cmd/IdClaimHandler.js</tspan>
-<tspan x="10" y="1674"> 77.  2017-04-18 00:35:41 +0000     3263 bytes  lib/features/modeling/cmd/ResizeLaneHandler.js</tspan>
-<tspan x="10" y="1690"> 78.  2017-04-18 00:35:41 +0000      974 bytes  lib/features/modeling/cmd/SetColorHandler.js</tspan>
-<tspan x="10" y="1706"> 79.  2017-04-18 00:35:41 +0000     2051 bytes  lib/features/modeling/cmd/SplitLaneHandler.js</tspan>
-<tspan x="10" y="1722"> 80.  2017-04-18 00:35:41 +0000     2208 bytes  lib/features/modeling/cmd/UpdateCanvasRootHandle\</tspan>
+<tspan x="10" y="1642"> 75.  2017-04-18 00:36:45 +0000     2379 bytes  lib/features/modeling/cmd/AddLaneHandler.js</tspan>
+<tspan x="10" y="1658"> 76.  2017-04-18 00:36:45 +0000      720 bytes  lib/features/modeling/cmd/IdClaimHandler.js</tspan>
+<tspan x="10" y="1674"> 77.  2017-04-18 00:36:45 +0000     3263 bytes  lib/features/modeling/cmd/ResizeLaneHandler.js</tspan>
+<tspan x="10" y="1690"> 78.  2017-04-18 00:36:45 +0000      974 bytes  lib/features/modeling/cmd/SetColorHandler.js</tspan>
+<tspan x="10" y="1706"> 79.  2017-04-18 00:36:45 +0000     2051 bytes  lib/features/modeling/cmd/SplitLaneHandler.js</tspan>
+<tspan x="10" y="1722"> 80.  2017-04-18 00:36:45 +0000     2208 bytes  lib/features/modeling/cmd/UpdateCanvasRootHandle\</tspan>
 <tspan x="10" y="1738">r.js</tspan>
-<tspan x="10" y="1754"> 81.  2017-04-18 00:35:41 +0000     4404 bytes  lib/features/modeling/cmd/UpdateFlowNodeRefsHand\</tspan>
+<tspan x="10" y="1754"> 81.  2017-04-18 00:36:45 +0000     4404 bytes  lib/features/modeling/cmd/UpdateFlowNodeRefsHand\</tspan>
 <tspan x="10" y="1770">ler.js</tspan>
-<tspan x="10" y="1786"> 82.  2017-04-18 00:35:41 +0000     6593 bytes  lib/features/modeling/cmd/UpdatePropertiesHandle\</tspan>
+<tspan x="10" y="1786"> 82.  2017-04-18 00:36:45 +0000     6593 bytes  lib/features/modeling/cmd/UpdatePropertiesHandle\</tspan>
 <tspan x="10" y="1802">r.js</tspan>
-<tspan x="10" y="1818"> 83.  2017-04-18 00:35:41 +0000      934 bytes  lib/features/modeling/index.js</tspan>
-<tspan x="10" y="1834"> 84.  2017-04-18 00:35:41 +0000     3542 bytes  lib/features/modeling/util/LaneUtil.js</tspan>
-<tspan x="10" y="1850"> 85.  2017-04-18 00:35:41 +0000      856 bytes  lib/features/modeling/util/ModelingUtil.js</tspan>
-<tspan x="10" y="1866"> 86.  2017-04-18 00:35:41 +0000     3597 bytes  lib/features/ordering/BpmnOrderingProvider.js</tspan>
-<tspan x="10" y="1882"> 87.  2017-04-18 00:35:41 +0000      198 bytes  lib/features/ordering/index.js</tspan>
-<tspan x="10" y="1898"> 88.  2017-04-18 00:35:41 +0000     4257 bytes  lib/features/palette/PaletteProvider.js</tspan>
-<tspan x="10" y="1914"> 89.  2017-04-18 00:35:41 +0000      465 bytes  lib/features/palette/index.js</tspan>
-<tspan x="10" y="1930"> 90.  2017-04-18 00:35:41 +0000    13826 bytes  lib/features/popup-menu/ReplaceMenuProvider.js</tspan>
-<tspan x="10" y="1946"> 91.  2017-04-18 00:35:41 +0000      227 bytes  lib/features/popup-menu/index.js</tspan>
-<tspan x="10" y="1962"> 92.  2017-04-18 00:35:41 +0000     1229 bytes  lib/features/popup-menu/util/TypeUtil.js</tspan>
-<tspan x="10" y="1978"> 93.  2017-04-18 00:35:41 +0000     2851 bytes  lib/features/replace-preview/BpmnReplacePreview.\</tspan>
+<tspan x="10" y="1818"> 83.  2017-04-18 00:36:45 +0000      934 bytes  lib/features/modeling/index.js</tspan>
+<tspan x="10" y="1834"> 84.  2017-04-18 00:36:45 +0000     3542 bytes  lib/features/modeling/util/LaneUtil.js</tspan>
+<tspan x="10" y="1850"> 85.  2017-04-18 00:36:45 +0000      856 bytes  lib/features/modeling/util/ModelingUtil.js</tspan>
+<tspan x="10" y="1866"> 86.  2017-04-18 00:36:45 +0000     3597 bytes  lib/features/ordering/BpmnOrderingProvider.js</tspan>
+<tspan x="10" y="1882"> 87.  2017-04-18 00:36:45 +0000      198 bytes  lib/features/ordering/index.js</tspan>
+<tspan x="10" y="1898"> 88.  2017-04-18 00:36:45 +0000     4257 bytes  lib/features/palette/PaletteProvider.js</tspan>
+<tspan x="10" y="1914"> 89.  2017-04-18 00:36:45 +0000      465 bytes  lib/features/palette/index.js</tspan>
+<tspan x="10" y="1930"> 90.  2017-04-18 00:36:45 +0000    13826 bytes  lib/features/popup-menu/ReplaceMenuProvider.js</tspan>
+<tspan x="10" y="1946"> 91.  2017-04-18 00:36:45 +0000      227 bytes  lib/features/popup-menu/index.js</tspan>
+<tspan x="10" y="1962"> 92.  2017-04-18 00:36:45 +0000     1229 bytes  lib/features/popup-menu/util/TypeUtil.js</tspan>
+<tspan x="10" y="1978"> 93.  2017-04-18 00:36:45 +0000     2851 bytes  lib/features/replace-preview/BpmnReplacePreview.\</tspan>
 <tspan x="10" y="1994">js</tspan>
-<tspan x="10" y="2010"> 94.  2017-04-18 00:35:41 +0000      197 bytes  lib/features/replace-preview/index.js</tspan>
-<tspan x="10" y="2026"> 95.  2017-04-18 00:35:41 +0000     6063 bytes  lib/features/replace/BpmnReplace.js</tspan>
-<tspan x="10" y="2042"> 96.  2017-04-18 00:35:41 +0000    21135 bytes  lib/features/replace/ReplaceOptions.js</tspan>
-<tspan x="10" y="2058"> 97.  2017-04-18 00:35:41 +0000      193 bytes  lib/features/replace/index.js</tspan>
-<tspan x="10" y="2074"> 98.  2017-04-18 00:35:41 +0000    19580 bytes  lib/features/rules/BpmnRules.js</tspan>
-<tspan x="10" y="2090"> 99.  2017-04-18 00:35:41 +0000      166 bytes  lib/features/rules/index.js</tspan>
-<tspan x="10" y="2106">100.  2017-04-18 00:35:41 +0000     2607 bytes  lib/features/search/BpmnSearchProvider.js</tspan>
-<tspan x="10" y="2122">101.  2017-04-18 00:35:41 +0000      181 bytes  lib/features/search/index.js</tspan>
-<tspan x="10" y="2138">102.  2017-04-18 00:35:41 +0000    13260 bytes  lib/features/snapping/BpmnSnapping.js</tspan>
-<tspan x="10" y="2154">103.  2017-04-18 00:35:41 +0000     3976 bytes  lib/features/snapping/BpmnSnappingUtil.js</tspan>
-<tspan x="10" y="2170">104.  2017-04-18 00:35:41 +0000       99 bytes  lib/features/snapping/index.js</tspan>
-<tspan x="10" y="2186">105.  2017-04-18 00:35:41 +0000     7823 bytes  lib/import/BpmnImporter.js</tspan>
-<tspan x="10" y="2202">106.  2017-04-18 00:35:41 +0000    11395 bytes  lib/import/BpmnTreeWalker.js</tspan>
-<tspan x="10" y="2218">107.  2017-04-18 00:35:41 +0000     1585 bytes  lib/import/Importer.js</tspan>
-<tspan x="10" y="2234">108.  2017-04-18 00:35:41 +0000      166 bytes  lib/import/Util.js</tspan>
-<tspan x="10" y="2250">109.  2017-04-18 00:35:41 +0000      142 bytes  lib/import/index.js</tspan>
-<tspan x="10" y="2266">110.  2017-04-18 00:35:41 +0000     1555 bytes  lib/util/DiUtil.js</tspan>
-<tspan x="10" y="2282">111.  2017-04-18 00:35:41 +0000     3036 bytes  lib/util/LabelUtil.js</tspan>
-<tspan x="10" y="2298">112.  2017-04-18 00:35:41 +0000      637 bytes  lib/util/ModelUtil.js</tspan>
-<tspan x="10" y="2314">113.  2017-04-18 00:35:41 +0000     2628 bytes  lib/util/PoweredByUtil.js</tspan>
-<tspan x="10" y="2330">114.  2017-04-18 00:35:41 +0000     5735 bytes  lib/util/model/ModelCloneHelper.js</tspan>
-<tspan x="10" y="2346">115.  2017-04-18 00:35:41 +0000      606 bytes  lib/util/model/ModelCloneUtils.js</tspan>
-<tspan x="10" y="2362">116.  2017-04-18 00:35:41 +0000     4141 bytes  package.json</tspan>
-<tspan x="10" y="2378">117.  2017-04-18 00:35:41 +0000      633 bytes  resources/bpmnjs.png</tspan>
-<tspan x="10" y="2394">118.  2017-04-18 00:35:41 +0000      799 bytes  resources/initial.bpmn</tspan>
-<tspan x="10" y="2410">119.  2017-04-18 00:35:41 +0000    71294 bytes  resources/screencast.gif</tspan>
-<tspan x="10" y="2426">120.  2017-04-18 00:35:41 +0000      123 bytes  tasks/banner-min.txt</tspan>
-<tspan x="10" y="2442">121.  2017-04-18 00:35:41 +0000      315 bytes  tasks/banner.txt</tspan>
-<tspan x="10" y="2458">122.  2017-04-18 00:35:41 +0000     3662 bytes  tasks/bundle.js</tspan>
-<tspan x="10" y="2474">123.  2017-04-18 00:35:41 +0000      605 bytes  test/TestHelper.js</tspan>
-<tspan x="10" y="2490">124.  2017-04-18 00:35:41 +0000      792 bytes  test/config/karma.unit.js</tspan>
-<tspan x="10" y="2506">125.  2017-04-18 00:35:41 +0000     1034 bytes  test/config/translation-reporter.js</tspan>
-<tspan x="10" y="2522">126.  2017-04-18 00:35:41 +0000     7499 bytes  test/fixtures/bpmn/align-elements.bpmn</tspan>
-<tspan x="10" y="2538">127.  2017-04-18 00:35:41 +0000      968 bytes  test/fixtures/bpmn/basic.bpmn</tspan>
-<tspan x="10" y="2554">128.  2017-04-18 00:35:41 +0000     3371 bytes  test/fixtures/bpmn/boundary-events.bpmn</tspan>
-<tspan x="10" y="2570">129.  2017-04-18 00:35:41 +0000     4713 bytes  test/fixtures/bpmn/collaboration-data-items.bpmn</tspan>
-<tspan x="10" y="2586">130.  2017-04-18 00:35:41 +0000     5097 bytes  test/fixtures/bpmn/collaboration-message-flows.b\</tspan>
+<tspan x="10" y="2010"> 94.  2017-04-18 00:36:45 +0000      197 bytes  lib/features/replace-preview/index.js</tspan>
+<tspan x="10" y="2026"> 95.  2017-04-18 00:36:45 +0000     6063 bytes  lib/features/replace/BpmnReplace.js</tspan>
+<tspan x="10" y="2042"> 96.  2017-04-18 00:36:45 +0000    21135 bytes  lib/features/replace/ReplaceOptions.js</tspan>
+<tspan x="10" y="2058"> 97.  2017-04-18 00:36:45 +0000      193 bytes  lib/features/replace/index.js</tspan>
+<tspan x="10" y="2074"> 98.  2017-04-18 00:36:45 +0000    19580 bytes  lib/features/rules/BpmnRules.js</tspan>
+<tspan x="10" y="2090"> 99.  2017-04-18 00:36:45 +0000      166 bytes  lib/features/rules/index.js</tspan>
+<tspan x="10" y="2106">100.  2017-04-18 00:36:45 +0000     2607 bytes  lib/features/search/BpmnSearchProvider.js</tspan>
+<tspan x="10" y="2122">101.  2017-04-18 00:36:45 +0000      181 bytes  lib/features/search/index.js</tspan>
+<tspan x="10" y="2138">102.  2017-04-18 00:36:45 +0000    13260 bytes  lib/features/snapping/BpmnSnapping.js</tspan>
+<tspan x="10" y="2154">103.  2017-04-18 00:36:45 +0000     3976 bytes  lib/features/snapping/BpmnSnappingUtil.js</tspan>
+<tspan x="10" y="2170">104.  2017-04-18 00:36:45 +0000       99 bytes  lib/features/snapping/index.js</tspan>
+<tspan x="10" y="2186">105.  2017-04-18 00:36:45 +0000     7823 bytes  lib/import/BpmnImporter.js</tspan>
+<tspan x="10" y="2202">106.  2017-04-18 00:36:45 +0000    11395 bytes  lib/import/BpmnTreeWalker.js</tspan>
+<tspan x="10" y="2218">107.  2017-04-18 00:36:45 +0000     1585 bytes  lib/import/Importer.js</tspan>
+<tspan x="10" y="2234">108.  2017-04-18 00:36:45 +0000      166 bytes  lib/import/Util.js</tspan>
+<tspan x="10" y="2250">109.  2017-04-18 00:36:45 +0000      142 bytes  lib/import/index.js</tspan>
+<tspan x="10" y="2266">110.  2017-04-18 00:36:45 +0000     1555 bytes  lib/util/DiUtil.js</tspan>
+<tspan x="10" y="2282">111.  2017-04-18 00:36:45 +0000     3036 bytes  lib/util/LabelUtil.js</tspan>
+<tspan x="10" y="2298">112.  2017-04-18 00:36:45 +0000      637 bytes  lib/util/ModelUtil.js</tspan>
+<tspan x="10" y="2314">113.  2017-04-18 00:36:45 +0000     2628 bytes  lib/util/PoweredByUtil.js</tspan>
+<tspan x="10" y="2330">114.  2017-04-18 00:36:45 +0000     5735 bytes  lib/util/model/ModelCloneHelper.js</tspan>
+<tspan x="10" y="2346">115.  2017-04-18 00:36:45 +0000      606 bytes  lib/util/model/ModelCloneUtils.js</tspan>
+<tspan x="10" y="2362">116.  2017-04-18 00:36:45 +0000     4141 bytes  package.json</tspan>
+<tspan x="10" y="2378">117.  2017-04-18 00:36:45 +0000      633 bytes  resources/bpmnjs.png</tspan>
+<tspan x="10" y="2394">118.  2017-04-18 00:36:45 +0000      799 bytes  resources/initial.bpmn</tspan>
+<tspan x="10" y="2410">119.  2017-04-18 00:36:45 +0000    71294 bytes  resources/screencast.gif</tspan>
+<tspan x="10" y="2426">120.  2017-04-18 00:36:45 +0000      123 bytes  tasks/banner-min.txt</tspan>
+<tspan x="10" y="2442">121.  2017-04-18 00:36:45 +0000      315 bytes  tasks/banner.txt</tspan>
+<tspan x="10" y="2458">122.  2017-04-18 00:36:45 +0000     3662 bytes  tasks/bundle.js</tspan>
+<tspan x="10" y="2474">123.  2017-04-18 00:36:45 +0000      605 bytes  test/TestHelper.js</tspan>
+<tspan x="10" y="2490">124.  2017-04-18 00:36:45 +0000      792 bytes  test/config/karma.unit.js</tspan>
+<tspan x="10" y="2506">125.  2017-04-18 00:36:45 +0000     1034 bytes  test/config/translation-reporter.js</tspan>
+<tspan x="10" y="2522">126.  2017-04-18 00:36:45 +0000     7499 bytes  test/fixtures/bpmn/align-elements.bpmn</tspan>
+<tspan x="10" y="2538">127.  2017-04-18 00:36:45 +0000      968 bytes  test/fixtures/bpmn/basic.bpmn</tspan>
+<tspan x="10" y="2554">128.  2017-04-18 00:36:45 +0000     3371 bytes  test/fixtures/bpmn/boundary-events.bpmn</tspan>
+<tspan x="10" y="2570">129.  2017-04-18 00:36:45 +0000     4713 bytes  test/fixtures/bpmn/collaboration-data-items.bpmn</tspan>
+<tspan x="10" y="2586">130.  2017-04-18 00:36:45 +0000     5097 bytes  test/fixtures/bpmn/collaboration-message-flows.b\</tspan>
 <tspan x="10" y="2602">pmn</tspan>
-<tspan x="10" y="2618">131.  2017-04-18 00:35:41 +0000     4836 bytes  test/fixtures/bpmn/collaboration-sequence-flows.\</tspan>
+<tspan x="10" y="2618">131.  2017-04-18 00:36:45 +0000     4836 bytes  test/fixtures/bpmn/collaboration-sequence-flows.\</tspan>
 <tspan x="10" y="2634">bpmn</tspan>
-<tspan x="10" y="2650">132.  2017-04-18 00:35:41 +0000     2884 bytes  test/fixtures/bpmn/collaboration.bpmn</tspan>
-<tspan x="10" y="2666">133.  2017-04-18 00:35:41 +0000     1118 bytes  test/fixtures/bpmn/collaboration/collaboration-e\</tspan>
+<tspan x="10" y="2650">132.  2017-04-18 00:36:45 +0000     2884 bytes  test/fixtures/bpmn/collaboration.bpmn</tspan>
+<tspan x="10" y="2666">133.  2017-04-18 00:36:45 +0000     1118 bytes  test/fixtures/bpmn/collaboration/collaboration-e\</tspan>
 <tspan x="10" y="2682">mpty-participant.bpmn</tspan>
-<tspan x="10" y="2698">134.  2017-04-18 00:35:41 +0000     5649 bytes  test/fixtures/bpmn/collaboration/collaboration-m\</tspan>
+<tspan x="10" y="2698">134.  2017-04-18 00:36:45 +0000     5649 bytes  test/fixtures/bpmn/collaboration/collaboration-m\</tspan>
 <tspan x="10" y="2714">essage-flows.bpmn</tspan>
-<tspan x="10" y="2730">135.  2017-04-18 00:35:41 +0000     3627 bytes  test/fixtures/bpmn/collaboration/collaboration-p\</tspan>
+<tspan x="10" y="2730">135.  2017-04-18 00:36:45 +0000     3627 bytes  test/fixtures/bpmn/collaboration/collaboration-p\</tspan>
 <tspan x="10" y="2746">articipant.bpmn</tspan>
-<tspan x="10" y="2762">136.  2017-04-18 00:35:41 +0000      632 bytes  test/fixtures/bpmn/collaboration/process-empty.b\</tspan>
+<tspan x="10" y="2762">136.  2017-04-18 00:36:45 +0000      632 bytes  test/fixtures/bpmn/collaboration/process-empty.b\</tspan>
 <tspan x="10" y="2778">pmn</tspan>
-<tspan x="10" y="2794">137.  2017-04-18 00:35:41 +0000     3014 bytes  test/fixtures/bpmn/collaboration/process.bpmn</tspan>
-<tspan x="10" y="2810">138.  2017-04-18 00:35:41 +0000   169013 bytes  test/fixtures/bpmn/complex.bpmn</tspan>
-<tspan x="10" y="2826">139.  2017-04-18 00:35:41 +0000     5002 bytes  test/fixtures/bpmn/conditions.bpmn</tspan>
-<tspan x="10" y="2842">140.  2017-04-18 00:35:41 +0000     7587 bytes  test/fixtures/bpmn/containers.bpmn</tspan>
-<tspan x="10" y="2858">141.  2017-04-18 00:35:41 +0000     3082 bytes  test/fixtures/bpmn/distribute-elements-filtering\</tspan>
+<tspan x="10" y="2794">137.  2017-04-18 00:36:45 +0000     3014 bytes  test/fixtures/bpmn/collaboration/process.bpmn</tspan>
+<tspan x="10" y="2810">138.  2017-04-18 00:36:45 +0000   169013 bytes  test/fixtures/bpmn/complex.bpmn</tspan>
+<tspan x="10" y="2826">139.  2017-04-18 00:36:45 +0000     5002 bytes  test/fixtures/bpmn/conditions.bpmn</tspan>
+<tspan x="10" y="2842">140.  2017-04-18 00:36:45 +0000     7587 bytes  test/fixtures/bpmn/containers.bpmn</tspan>
+<tspan x="10" y="2858">141.  2017-04-18 00:36:45 +0000     3082 bytes  test/fixtures/bpmn/distribute-elements-filtering\</tspan>
 <tspan x="10" y="2874">.bpmn</tspan>
-<tspan x="10" y="2890">142.  2017-04-18 00:35:41 +0000    12733 bytes  test/fixtures/bpmn/distribute-elements.bpmn</tspan>
-<tspan x="10" y="2906">143.  2017-04-18 00:35:41 +0000    13109 bytes  test/fixtures/bpmn/draw/activity-markers-combina\</tspan>
+<tspan x="10" y="2890">142.  2017-04-18 00:36:45 +0000    12733 bytes  test/fixtures/bpmn/distribute-elements.bpmn</tspan>
+<tspan x="10" y="2906">143.  2017-04-18 00:36:45 +0000    13109 bytes  test/fixtures/bpmn/draw/activity-markers-combina\</tspan>
 <tspan x="10" y="2922">tion.bpmn</tspan>
-<tspan x="10" y="2938">144.  2017-04-18 00:35:41 +0000     2750 bytes  test/fixtures/bpmn/draw/activity-markers-simple.\</tspan>
+<tspan x="10" y="2938">144.  2017-04-18 00:36:45 +0000     2750 bytes  test/fixtures/bpmn/draw/activity-markers-simple.\</tspan>
 <tspan x="10" y="2954">bpmn</tspan>
-<tspan x="10" y="2970">145.  2017-04-18 00:35:41 +0000    19222 bytes  test/fixtures/bpmn/draw/activity-markers.bpmn</tspan>
-<tspan x="10" y="2986">146.  2017-04-18 00:35:41 +0000     3113 bytes  test/fixtures/bpmn/draw/associations.bpmn</tspan>
-<tspan x="10" y="3002">147.  2017-04-18 00:35:41 +0000     5468 bytes  test/fixtures/bpmn/draw/boundary-event-with-refn\</tspan>
+<tspan x="10" y="2970">145.  2017-04-18 00:36:45 +0000    19222 bytes  test/fixtures/bpmn/draw/activity-markers.bpmn</tspan>
+<tspan x="10" y="2986">146.  2017-04-18 00:36:45 +0000     3113 bytes  test/fixtures/bpmn/draw/associations.bpmn</tspan>
+<tspan x="10" y="3002">147.  2017-04-18 00:36:45 +0000     5468 bytes  test/fixtures/bpmn/draw/boundary-event-with-refn\</tspan>
 <tspan x="10" y="3018">ode.bpmn</tspan>
-<tspan x="10" y="3034">148.  2017-04-18 00:35:41 +0000     5511 bytes  test/fixtures/bpmn/draw/boundary-event-without-r\</tspan>
+<tspan x="10" y="3034">148.  2017-04-18 00:36:45 +0000     5511 bytes  test/fixtures/bpmn/draw/boundary-event-without-r\</tspan>
 <tspan x="10" y="3050">efnode.bpmn</tspan>
-<tspan x="10" y="3066">149.  2017-04-18 00:35:41 +0000     3610 bytes  test/fixtures/bpmn/draw/boundary-event-z-index.b\</tspan>
+<tspan x="10" y="3066">149.  2017-04-18 00:36:45 +0000     3610 bytes  test/fixtures/bpmn/draw/boundary-event-z-index.b\</tspan>
 <tspan x="10" y="3082">pmn</tspan>
-<tspan x="10" y="3098">150.  2017-04-18 00:35:41 +0000      793 bytes  test/fixtures/bpmn/draw/call-activity.bpmn</tspan>
-<tspan x="10" y="3114">151.  2017-04-18 00:35:41 +0000    23528 bytes  test/fixtures/bpmn/draw/colors.bpmn</tspan>
-<tspan x="10" y="3130">152.  2017-04-18 00:35:41 +0000     8345 bytes  test/fixtures/bpmn/draw/conditional-flow-default\</tspan>
+<tspan x="10" y="3098">150.  2017-04-18 00:36:45 +0000      793 bytes  test/fixtures/bpmn/draw/call-activity.bpmn</tspan>
+<tspan x="10" y="3114">151.  2017-04-18 00:36:45 +0000    23528 bytes  test/fixtures/bpmn/draw/colors.bpmn</tspan>
+<tspan x="10" y="3130">152.  2017-04-18 00:36:45 +0000     8345 bytes  test/fixtures/bpmn/draw/conditional-flow-default\</tspan>
 <tspan x="10" y="3146">.bpmn</tspan>
-<tspan x="10" y="3162">153.  2017-04-18 00:35:41 +0000     4642 bytes  test/fixtures/bpmn/draw/conditional-flow-gateway\</tspan>
+<tspan x="10" y="3162">153.  2017-04-18 00:36:45 +0000     4642 bytes  test/fixtures/bpmn/draw/conditional-flow-gateway\</tspan>
 <tspan x="10" y="3178">s.bpmn</tspan>
-<tspan x="10" y="3194">154.  2017-04-18 00:35:41 +0000     2083 bytes  test/fixtures/bpmn/draw/conditional-flow-typed-t\</tspan>
+<tspan x="10" y="3194">154.  2017-04-18 00:36:45 +0000     2083 bytes  test/fixtures/bpmn/draw/conditional-flow-typed-t\</tspan>
 <tspan x="10" y="3210">ask.bpmn</tspan>
-<tspan x="10" y="3226">155.  2017-04-18 00:35:41 +0000    20009 bytes  test/fixtures/bpmn/draw/conditional-flow.bpmn</tspan>
-<tspan x="10" y="3242">156.  2017-04-18 00:35:41 +0000    16244 bytes  test/fixtures/bpmn/draw/data-objects.bpmn</tspan>
-<tspan x="10" y="3258">157.  2017-04-18 00:35:41 +0000    14380 bytes  test/fixtures/bpmn/draw/event-subprocesses-colla\</tspan>
+<tspan x="10" y="3226">155.  2017-04-18 00:36:45 +0000    20009 bytes  test/fixtures/bpmn/draw/conditional-flow.bpmn</tspan>
+<tspan x="10" y="3242">156.  2017-04-18 00:36:45 +0000    16244 bytes  test/fixtures/bpmn/draw/data-objects.bpmn</tspan>
+<tspan x="10" y="3258">157.  2017-04-18 00:36:45 +0000    14380 bytes  test/fixtures/bpmn/draw/event-subprocesses-colla\</tspan>
 <tspan x="10" y="3274">psed.bpmn</tspan>
-<tspan x="10" y="3290">158.  2017-04-18 00:35:41 +0000    21683 bytes  test/fixtures/bpmn/draw/event-subprocesses-expan\</tspan>
+<tspan x="10" y="3290">158.  2017-04-18 00:36:45 +0000    21683 bytes  test/fixtures/bpmn/draw/event-subprocesses-expan\</tspan>
 <tspan x="10" y="3306">ded.bpmn</tspan>
-<tspan x="10" y="3322">159.  2017-04-18 00:35:41 +0000    29228 bytes  test/fixtures/bpmn/draw/events-interrupting.bpmn</tspan>
-<tspan x="10" y="3338">160.  2017-04-18 00:35:41 +0000    21404 bytes  test/fixtures/bpmn/draw/events.bpmn</tspan>
-<tspan x="10" y="3354">161.  2017-04-18 00:35:41 +0000     2991 bytes  test/fixtures/bpmn/draw/gateway-type-default.bpm\</tspan>
+<tspan x="10" y="3322">159.  2017-04-18 00:36:45 +0000    29228 bytes  test/fixtures/bpmn/draw/events-interrupting.bpmn</tspan>
+<tspan x="10" y="3338">160.  2017-04-18 00:36:45 +0000    21404 bytes  test/fixtures/bpmn/draw/events.bpmn</tspan>
+<tspan x="10" y="3354">161.  2017-04-18 00:36:45 +0000     2991 bytes  test/fixtures/bpmn/draw/gateway-type-default.bpm\</tspan>
 <tspan x="10" y="3370">n</tspan>
-<tspan x="10" y="3386">162.  2017-04-18 00:35:41 +0000     3308 bytes  test/fixtures/bpmn/draw/gateways.bpmn</tspan>
-<tspan x="10" y="3402">163.  2017-04-18 00:35:41 +0000     2204 bytes  test/fixtures/bpmn/draw/group.bpmn</tspan>
-<tspan x="10" y="3418">164.  2017-04-18 00:35:41 +0000     9192 bytes  test/fixtures/bpmn/draw/message-marker.bpmn</tspan>
-<tspan x="10" y="3434">165.  2017-04-18 00:35:41 +0000     8008 bytes  test/fixtures/bpmn/draw/pools-with-collection-ma\</tspan>
+<tspan x="10" y="3386">162.  2017-04-18 00:36:45 +0000     3308 bytes  test/fixtures/bpmn/draw/gateways.bpmn</tspan>
+<tspan x="10" y="3402">163.  2017-04-18 00:36:45 +0000     2204 bytes  test/fixtures/bpmn/draw/group.bpmn</tspan>
+<tspan x="10" y="3418">164.  2017-04-18 00:36:45 +0000     9192 bytes  test/fixtures/bpmn/draw/message-marker.bpmn</tspan>
+<tspan x="10" y="3434">165.  2017-04-18 00:36:45 +0000     8008 bytes  test/fixtures/bpmn/draw/pools-with-collection-ma\</tspan>
 <tspan x="10" y="3450">rker.bpmn</tspan>
-<tspan x="10" y="3466">166.  2017-04-18 00:35:41 +0000     6078 bytes  test/fixtures/bpmn/draw/pools.bpmn</tspan>
-<tspan x="10" y="3482">167.  2017-04-18 00:35:41 +0000     6516 bytes  test/fixtures/bpmn/draw/task-types.bpmn</tspan>
-<tspan x="10" y="3498">168.  2017-04-18 00:35:41 +0000     5032 bytes  test/fixtures/bpmn/draw/text-annotation.bpmn</tspan>
-<tspan x="10" y="3514">169.  2017-04-18 00:35:41 +0000     3186 bytes  test/fixtures/bpmn/draw/xor.bpmn</tspan>
-<tspan x="10" y="3530">170.  2017-04-18 00:35:41 +0000      496 bytes  test/fixtures/bpmn/empty-definitions.bpmn</tspan>
-<tspan x="10" y="3546">171.  2017-04-18 00:35:41 +0000      272 bytes  test/fixtures/bpmn/error/binary.png</tspan>
-<tspan x="10" y="3562">172.  2017-04-18 00:35:41 +0000     2259 bytes  test/fixtures/bpmn/error/categoryValue.bpmn</tspan>
-<tspan x="10" y="3578">173.  2017-04-18 00:35:41 +0000      763 bytes  test/fixtures/bpmn/error/di-plane-no-bpmn-elemen\</tspan>
+<tspan x="10" y="3466">166.  2017-04-18 00:36:45 +0000     6078 bytes  test/fixtures/bpmn/draw/pools.bpmn</tspan>
+<tspan x="10" y="3482">167.  2017-04-18 00:36:45 +0000     6516 bytes  test/fixtures/bpmn/draw/task-types.bpmn</tspan>
+<tspan x="10" y="3498">168.  2017-04-18 00:36:45 +0000     5032 bytes  test/fixtures/bpmn/draw/text-annotation.bpmn</tspan>
+<tspan x="10" y="3514">169.  2017-04-18 00:36:45 +0000     3186 bytes  test/fixtures/bpmn/draw/xor.bpmn</tspan>
+<tspan x="10" y="3530">170.  2017-04-18 00:36:45 +0000      496 bytes  test/fixtures/bpmn/empty-definitions.bpmn</tspan>
+<tspan x="10" y="3546">171.  2017-04-18 00:36:45 +0000      272 bytes  test/fixtures/bpmn/error/binary.png</tspan>
+<tspan x="10" y="3562">172.  2017-04-18 00:36:45 +0000     2259 bytes  test/fixtures/bpmn/error/categoryValue.bpmn</tspan>
+<tspan x="10" y="3578">173.  2017-04-18 00:36:45 +0000      763 bytes  test/fixtures/bpmn/error/di-plane-no-bpmn-elemen\</tspan>
 <tspan x="10" y="3594">t.bpmn</tspan>
-<tspan x="10" y="3610">174.  2017-04-18 00:35:41 +0000      474 bytes  test/fixtures/bpmn/error/duplicate-ids.bpmn</tspan>
-<tspan x="10" y="3626">175.  2017-04-18 00:35:41 +0000      429 bytes  test/fixtures/bpmn/error/invalid-child.bpmn</tspan>
-<tspan x="10" y="3642">176.  2017-04-18 00:35:41 +0000      871 bytes  test/fixtures/bpmn/error/missing-namespace.bpmn</tspan>
-<tspan x="10" y="3658">177.  2017-04-18 00:35:41 +0000       14 bytes  test/fixtures/bpmn/error/no-xml.txt</tspan>
-<tspan x="10" y="3674">178.  2017-04-18 00:35:41 +0000     2443 bytes  test/fixtures/bpmn/event-sub-processes.bpmn</tspan>
-<tspan x="10" y="3690">179.  2017-04-18 00:35:41 +0000     3160 bytes  test/fixtures/bpmn/extension/camunda.bpmn</tspan>
-<tspan x="10" y="3706">180.  2017-04-18 00:35:41 +0000     3278 bytes  test/fixtures/bpmn/extension/custom-override.bpm\</tspan>
+<tspan x="10" y="3610">174.  2017-04-18 00:36:45 +0000      474 bytes  test/fixtures/bpmn/error/duplicate-ids.bpmn</tspan>
+<tspan x="10" y="3626">175.  2017-04-18 00:36:45 +0000      429 bytes  test/fixtures/bpmn/error/invalid-child.bpmn</tspan>
+<tspan x="10" y="3642">176.  2017-04-18 00:36:45 +0000      871 bytes  test/fixtures/bpmn/error/missing-namespace.bpmn</tspan>
+<tspan x="10" y="3658">177.  2017-04-18 00:36:45 +0000       14 bytes  test/fixtures/bpmn/error/no-xml.txt</tspan>
+<tspan x="10" y="3674">178.  2017-04-18 00:36:45 +0000     2443 bytes  test/fixtures/bpmn/event-sub-processes.bpmn</tspan>
+<tspan x="10" y="3690">179.  2017-04-18 00:36:45 +0000     3160 bytes  test/fixtures/bpmn/extension/camunda.bpmn</tspan>
+<tspan x="10" y="3706">180.  2017-04-18 00:36:45 +0000     3278 bytes  test/fixtures/bpmn/extension/custom-override.bpm\</tspan>
 <tspan x="10" y="3722">n</tspan>
-<tspan x="10" y="3738">181.  2017-04-18 00:35:41 +0000     3270 bytes  test/fixtures/bpmn/extension/custom.bpmn</tspan>
-<tspan x="10" y="3754">182.  2017-04-18 00:35:41 +0000     6207 bytes  test/fixtures/bpmn/features/copy-paste/basic.bpm\</tspan>
+<tspan x="10" y="3738">181.  2017-04-18 00:36:45 +0000     3270 bytes  test/fixtures/bpmn/extension/custom.bpmn</tspan>
+<tspan x="10" y="3754">182.  2017-04-18 00:36:45 +0000     6207 bytes  test/fixtures/bpmn/features/copy-paste/basic.bpm\</tspan>
 <tspan x="10" y="3770">n</tspan>
-<tspan x="10" y="3786">183.  2017-04-18 00:35:41 +0000     5183 bytes  test/fixtures/bpmn/features/copy-paste/collabora\</tspan>
+<tspan x="10" y="3786">183.  2017-04-18 00:36:45 +0000     5183 bytes  test/fixtures/bpmn/features/copy-paste/collabora\</tspan>
 <tspan x="10" y="3802">tion-multiple.bpmn</tspan>
-<tspan x="10" y="3818">184.  2017-04-18 00:35:41 +0000     3910 bytes  test/fixtures/bpmn/features/copy-paste/collabora\</tspan>
+<tspan x="10" y="3818">184.  2017-04-18 00:36:45 +0000     3910 bytes  test/fixtures/bpmn/features/copy-paste/collabora\</tspan>
 <tspan x="10" y="3834">tion.bpmn</tspan>
-<tspan x="10" y="3850">185.  2017-04-18 00:35:41 +0000     3499 bytes  test/fixtures/bpmn/features/copy-paste/data-asso\</tspan>
+<tspan x="10" y="3850">185.  2017-04-18 00:36:45 +0000     3499 bytes  test/fixtures/bpmn/features/copy-paste/data-asso\</tspan>
 <tspan x="10" y="3866">ciations.bpmn</tspan>
-<tspan x="10" y="3882">186.  2017-04-18 00:35:41 +0000     2512 bytes  test/fixtures/bpmn/features/copy-paste/propertie\</tspan>
+<tspan x="10" y="3882">186.  2017-04-18 00:36:45 +0000     2512 bytes  test/fixtures/bpmn/features/copy-paste/propertie\</tspan>
 <tspan x="10" y="3898">s.bpmn</tspan>
-<tspan x="10" y="3914">187.  2017-04-18 00:35:41 +0000     2341 bytes  test/fixtures/bpmn/features/drop/drop.bpmn</tspan>
-<tspan x="10" y="3930">188.  2017-04-18 00:35:41 +0000     2171 bytes  test/fixtures/bpmn/features/drop/recursive-task.\</tspan>
+<tspan x="10" y="3914">187.  2017-04-18 00:36:45 +0000     2341 bytes  test/fixtures/bpmn/features/drop/drop.bpmn</tspan>
+<tspan x="10" y="3930">188.  2017-04-18 00:36:45 +0000     2171 bytes  test/fixtures/bpmn/features/drop/recursive-task.\</tspan>
 <tspan x="10" y="3946">bpmn</tspan>
-<tspan x="10" y="3962">189.  2017-04-18 00:35:41 +0000    14688 bytes  test/fixtures/bpmn/features/label-editing/labels\</tspan>
+<tspan x="10" y="3962">189.  2017-04-18 00:36:45 +0000    14688 bytes  test/fixtures/bpmn/features/label-editing/labels\</tspan>
 <tspan x="10" y="3978">.bpmn</tspan>
-<tspan x="10" y="3994">190.  2017-04-18 00:35:41 +0000     1365 bytes  test/fixtures/bpmn/features/modeling/update-labe\</tspan>
+<tspan x="10" y="3994">190.  2017-04-18 00:36:45 +0000     1365 bytes  test/fixtures/bpmn/features/modeling/update-labe\</tspan>
 <tspan x="10" y="4010">l.bpmn</tspan>
-<tspan x="10" y="4026">191.  2017-04-18 00:35:41 +0000     9960 bytes  test/fixtures/bpmn/features/replace/01_replace.b\</tspan>
+<tspan x="10" y="4026">191.  2017-04-18 00:36:45 +0000     9960 bytes  test/fixtures/bpmn/features/replace/01_replace.b\</tspan>
 <tspan x="10" y="4042">pmn</tspan>
-<tspan x="10" y="4058">192.  2017-04-18 00:35:41 +0000     9799 bytes  test/fixtures/bpmn/features/replace/association-\</tspan>
+<tspan x="10" y="4058">192.  2017-04-18 00:36:45 +0000     9799 bytes  test/fixtures/bpmn/features/replace/association-\</tspan>
 <tspan x="10" y="4074">gateways.bpmn</tspan>
-<tspan x="10" y="4090">193.  2017-04-18 00:35:41 +0000     2478 bytes  test/fixtures/bpmn/features/replace/cancel-event\</tspan>
+<tspan x="10" y="4090">193.  2017-04-18 00:36:45 +0000     2478 bytes  test/fixtures/bpmn/features/replace/cancel-event\</tspan>
 <tspan x="10" y="4106">s.bpmn</tspan>
-<tspan x="10" y="4122">194.  2017-04-18 00:35:41 +0000     8255 bytes  test/fixtures/bpmn/features/replace/clone-proper\</tspan>
+<tspan x="10" y="4122">194.  2017-04-18 00:36:45 +0000     8255 bytes  test/fixtures/bpmn/features/replace/clone-proper\</tspan>
 <tspan x="10" y="4138">ties.bpmn</tspan>
-<tspan x="10" y="4154">195.  2017-04-18 00:35:41 +0000     2238 bytes  test/fixtures/bpmn/features/replace/connection.b\</tspan>
+<tspan x="10" y="4154">195.  2017-04-18 00:36:45 +0000     2238 bytes  test/fixtures/bpmn/features/replace/connection.b\</tspan>
 <tspan x="10" y="4170">pmn</tspan>
-<tspan x="10" y="4186">196.  2017-04-18 00:35:41 +0000     3492 bytes  test/fixtures/bpmn/features/rules/event-based-ga\</tspan>
+<tspan x="10" y="4186">196.  2017-04-18 00:36:45 +0000     3492 bytes  test/fixtures/bpmn/features/rules/event-based-ga\</tspan>
 <tspan x="10" y="4202">teway-outgoing-edge.bpmn</tspan>
-<tspan x="10" y="4218">197.  2017-04-18 00:35:41 +0000     1856 bytes  test/fixtures/bpmn/features/rules/link-event.bpm\</tspan>
+<tspan x="10" y="4218">197.  2017-04-18 00:36:45 +0000     1856 bytes  test/fixtures/bpmn/features/rules/link-event.bpm\</tspan>
 <tspan x="10" y="4234">n</tspan>
-<tspan x="10" y="4250">198.  2017-04-18 00:35:41 +0000     1452 bytes  test/fixtures/bpmn/features/rules/text-annotatio\</tspan>
+<tspan x="10" y="4250">198.  2017-04-18 00:36:45 +0000     1452 bytes  test/fixtures/bpmn/features/rules/text-annotatio\</tspan>
 <tspan x="10" y="4266">n-association.bpmn</tspan>
-<tspan x="10" y="4282">199.  2017-04-18 00:35:41 +0000    16266 bytes  test/fixtures/bpmn/flow-markers.bpmn</tspan>
-<tspan x="10" y="4298">200.  2017-04-18 00:35:41 +0000     2169 bytes  test/fixtures/bpmn/import/boundaryEvent.bpmn</tspan>
-<tspan x="10" y="4314">201.  2017-04-18 00:35:41 +0000     2884 bytes  test/fixtures/bpmn/import/collaboration.bpmn</tspan>
-<tspan x="10" y="4330">202.  2017-04-18 00:35:41 +0000     4229 bytes  test/fixtures/bpmn/import/collapsed/collaboratio\</tspan>
+<tspan x="10" y="4282">199.  2017-04-18 00:36:45 +0000    16266 bytes  test/fixtures/bpmn/flow-markers.bpmn</tspan>
+<tspan x="10" y="4298">200.  2017-04-18 00:36:45 +0000     2169 bytes  test/fixtures/bpmn/import/boundaryEvent.bpmn</tspan>
+<tspan x="10" y="4314">201.  2017-04-18 00:36:45 +0000     2884 bytes  test/fixtures/bpmn/import/collaboration.bpmn</tspan>
+<tspan x="10" y="4330">202.  2017-04-18 00:36:45 +0000     4229 bytes  test/fixtures/bpmn/import/collapsed/collaboratio\</tspan>
 <tspan x="10" y="4346">n.bpmn</tspan>
-<tspan x="10" y="4362">203.  2017-04-18 00:35:41 +0000     4622 bytes  test/fixtures/bpmn/import/collapsed/process.bpmn</tspan>
-<tspan x="10" y="4378">204.  2017-04-18 00:35:41 +0000    14845 bytes  test/fixtures/bpmn/import/collapsed/processWithC\</tspan>
+<tspan x="10" y="4362">203.  2017-04-18 00:36:45 +0000     4622 bytes  test/fixtures/bpmn/import/collapsed/process.bpmn</tspan>
+<tspan x="10" y="4378">204.  2017-04-18 00:36:45 +0000    14845 bytes  test/fixtures/bpmn/import/collapsed/processWithC\</tspan>
 <tspan x="10" y="4394">hildren.bpmn</tspan>
-<tspan x="10" y="4410">205.  2017-04-18 00:35:41 +0000     1488 bytes  test/fixtures/bpmn/import/default-attrs.bpmn</tspan>
-<tspan x="10" y="4426">206.  2017-04-18 00:35:41 +0000     1987 bytes  test/fixtures/bpmn/import/error/boundaryEvent-in\</tspan>
+<tspan x="10" y="4410">205.  2017-04-18 00:36:45 +0000     1488 bytes  test/fixtures/bpmn/import/default-attrs.bpmn</tspan>
+<tspan x="10" y="4426">206.  2017-04-18 00:36:45 +0000     1987 bytes  test/fixtures/bpmn/import/error/boundaryEvent-in\</tspan>
 <tspan x="10" y="4442">validAttachToRef.bpmn</tspan>
-<tspan x="10" y="4458">207.  2017-04-18 00:35:41 +0000     2146 bytes  test/fixtures/bpmn/import/error/boundaryEvent-mi\</tspan>
+<tspan x="10" y="4458">207.  2017-04-18 00:36:45 +0000     2146 bytes  test/fixtures/bpmn/import/error/boundaryEvent-mi\</tspan>
 <tspan x="10" y="4474">ssingAttachToRef.bpmn</tspan>
-<tspan x="10" y="4490">208.  2017-04-18 00:35:41 +0000     6629 bytes  test/fixtures/bpmn/import/error/dangling-process\</tspan>
+<tspan x="10" y="4490">208.  2017-04-18 00:36:45 +0000     6629 bytes  test/fixtures/bpmn/import/error/dangling-process\</tspan>
 <tspan x="10" y="4506">-message-flow.bpmn</tspan>
-<tspan x="10" y="4522">209.  2017-04-18 00:35:41 +0000     1984 bytes  test/fixtures/bpmn/import/error/invalid-flow-ele\</tspan>
+<tspan x="10" y="4522">209.  2017-04-18 00:36:45 +0000     1984 bytes  test/fixtures/bpmn/import/error/invalid-flow-ele\</tspan>
 <tspan x="10" y="4538">ment.bpmn</tspan>
-<tspan x="10" y="4554">210.  2017-04-18 00:35:41 +0000     1187 bytes  test/fixtures/bpmn/import/error/multiple-dis.bpm\</tspan>
+<tspan x="10" y="4554">210.  2017-04-18 00:36:45 +0000     1187 bytes  test/fixtures/bpmn/import/error/multiple-dis.bpm\</tspan>
 <tspan x="10" y="4570">n</tspan>
-<tspan x="10" y="4586">211.  2017-04-18 00:35:41 +0000     2872 bytes  test/fixtures/bpmn/import/labels/collaboration-m\</tspan>
+<tspan x="10" y="4586">211.  2017-04-18 00:36:45 +0000     2872 bytes  test/fixtures/bpmn/import/labels/collaboration-m\</tspan>
 <tspan x="10" y="4602">essage-flows.bpmn</tspan>
-<tspan x="10" y="4618">212.  2017-04-18 00:35:41 +0000     4340 bytes  test/fixtures/bpmn/import/labels/collaboration.b\</tspan>
+<tspan x="10" y="4618">212.  2017-04-18 00:36:45 +0000     4340 bytes  test/fixtures/bpmn/import/labels/collaboration.b\</tspan>
 <tspan x="10" y="4634">pmn</tspan>
-<tspan x="10" y="4650">213.  2017-04-18 00:35:41 +0000     2450 bytes  test/fixtures/bpmn/import/labels/embedded.bpmn</tspan>
-<tspan x="10" y="4666">214.  2017-04-18 00:35:41 +0000     3054 bytes  test/fixtures/bpmn/import/labels/external-no-di.\</tspan>
+<tspan x="10" y="4650">213.  2017-04-18 00:36:45 +0000     2450 bytes  test/fixtures/bpmn/import/labels/embedded.bpmn</tspan>
+<tspan x="10" y="4666">214.  2017-04-18 00:36:45 +0000     3054 bytes  test/fixtures/bpmn/import/labels/external-no-di.\</tspan>
 <tspan x="10" y="4682">bpmn</tspan>
-<tspan x="10" y="4698">215.  2017-04-18 00:35:41 +0000     4248 bytes  test/fixtures/bpmn/import/labels/external.bpmn</tspan>
-<tspan x="10" y="4714">216.  2017-04-18 00:35:41 +0000     3066 bytes  test/fixtures/bpmn/import/position/position-test\</tspan>
+<tspan x="10" y="4698">215.  2017-04-18 00:36:45 +0000     4248 bytes  test/fixtures/bpmn/import/labels/external.bpmn</tspan>
+<tspan x="10" y="4714">216.  2017-04-18 00:36:45 +0000     3066 bytes  test/fixtures/bpmn/import/position/position-test\</tspan>
 <tspan x="10" y="4730">case.bpmn</tspan>
-<tspan x="10" y="4746">217.  2017-04-18 00:35:41 +0000     3849 bytes  test/fixtures/bpmn/import/process.bpmn</tspan>
-<tspan x="10" y="4762">218.  2017-04-18 00:35:41 +0000     7077 bytes  test/fixtures/bpmn/nested-subprocesses.bpmn</tspan>
-<tspan x="10" y="4778">219.  2017-04-18 00:35:41 +0000     3657 bytes  test/fixtures/bpmn/sequence-flows.bpmn</tspan>
-<tspan x="10" y="4794">220.  2017-04-18 00:35:41 +0000     4458 bytes  test/fixtures/bpmn/simple-cropping.bpmn</tspan>
-<tspan x="10" y="4810">221.  2017-04-18 00:35:41 +0000     2635 bytes  test/fixtures/bpmn/simple-resizable.bpmn</tspan>
-<tspan x="10" y="4826">222.  2017-04-18 00:35:41 +0000     3849 bytes  test/fixtures/bpmn/simple.bpmn</tspan>
-<tspan x="10" y="4842">223.  2017-04-18 00:35:41 +0000    21533 bytes  test/fixtures/json/model/camunda.json</tspan>
-<tspan x="10" y="4858">224.  2017-04-18 00:35:41 +0000      758 bytes  test/fixtures/json/model/custom-override.json</tspan>
-<tspan x="10" y="4874">225.  2017-04-18 00:35:41 +0000      733 bytes  test/fixtures/json/model/custom.json</tspan>
-<tspan x="10" y="4890">226.  2017-04-18 00:35:41 +0000      354 bytes  test/helper/TranslationCollector.js</tspan>
-<tspan x="10" y="4906">227.  2017-04-18 00:35:41 +0000     6457 bytes  test/helper/index.js</tspan>
-<tspan x="10" y="4922">228.  2017-04-18 00:35:41 +0000     5824 bytes  test/integration/CustomElementsSpec.js</tspan>
-<tspan x="10" y="4938">229.  2017-04-18 00:35:41 +0000     1645 bytes  test/integration/ReimportSpec.js</tspan>
-<tspan x="10" y="4954">230.  2017-04-18 00:35:41 +0000      502 bytes  test/integration/SimpleModelingSpec.js</tspan>
-<tspan x="10" y="4970">231.  2017-04-18 00:35:41 +0000     1762 bytes  test/integration/custom-elements/CustomElementFa\</tspan>
+<tspan x="10" y="4746">217.  2017-04-18 00:36:45 +0000     3849 bytes  test/fixtures/bpmn/import/process.bpmn</tspan>
+<tspan x="10" y="4762">218.  2017-04-18 00:36:45 +0000     7077 bytes  test/fixtures/bpmn/nested-subprocesses.bpmn</tspan>
+<tspan x="10" y="4778">219.  2017-04-18 00:36:45 +0000     3657 bytes  test/fixtures/bpmn/sequence-flows.bpmn</tspan>
+<tspan x="10" y="4794">220.  2017-04-18 00:36:45 +0000     4458 bytes  test/fixtures/bpmn/simple-cropping.bpmn</tspan>
+<tspan x="10" y="4810">221.  2017-04-18 00:36:45 +0000     2635 bytes  test/fixtures/bpmn/simple-resizable.bpmn</tspan>
+<tspan x="10" y="4826">222.  2017-04-18 00:36:45 +0000     3849 bytes  test/fixtures/bpmn/simple.bpmn</tspan>
+<tspan x="10" y="4842">223.  2017-04-18 00:36:45 +0000    21533 bytes  test/fixtures/json/model/camunda.json</tspan>
+<tspan x="10" y="4858">224.  2017-04-18 00:36:45 +0000      758 bytes  test/fixtures/json/model/custom-override.json</tspan>
+<tspan x="10" y="4874">225.  2017-04-18 00:36:45 +0000      733 bytes  test/fixtures/json/model/custom.json</tspan>
+<tspan x="10" y="4890">226.  2017-04-18 00:36:45 +0000      354 bytes  test/helper/TranslationCollector.js</tspan>
+<tspan x="10" y="4906">227.  2017-04-18 00:36:45 +0000     6457 bytes  test/helper/index.js</tspan>
+<tspan x="10" y="4922">228.  2017-04-18 00:36:45 +0000     5824 bytes  test/integration/CustomElementsSpec.js</tspan>
+<tspan x="10" y="4938">229.  2017-04-18 00:36:45 +0000     1645 bytes  test/integration/ReimportSpec.js</tspan>
+<tspan x="10" y="4954">230.  2017-04-18 00:36:45 +0000      502 bytes  test/integration/SimpleModelingSpec.js</tspan>
+<tspan x="10" y="4970">231.  2017-04-18 00:36:45 +0000     1762 bytes  test/integration/custom-elements/CustomElementFa\</tspan>
 <tspan x="10" y="4986">ctory.js</tspan>
-<tspan x="10" y="5002">232.  2017-04-18 00:35:41 +0000     3420 bytes  test/integration/custom-elements/CustomRenderer.\</tspan>
+<tspan x="10" y="5002">232.  2017-04-18 00:36:45 +0000     3420 bytes  test/integration/custom-elements/CustomRenderer.\</tspan>
 <tspan x="10" y="5018">js</tspan>
-<tspan x="10" y="5034">233.  2017-04-18 00:35:41 +0000     3108 bytes  test/integration/custom-elements/CustomRules.js</tspan>
-<tspan x="10" y="5050">234.  2017-04-18 00:35:41 +0000     2606 bytes  test/integration/custom-elements/CustomUpdater.j\</tspan>
+<tspan x="10" y="5034">233.  2017-04-18 00:36:45 +0000     3108 bytes  test/integration/custom-elements/CustomRules.js</tspan>
+<tspan x="10" y="5050">234.  2017-04-18 00:36:45 +0000     2606 bytes  test/integration/custom-elements/CustomUpdater.j\</tspan>
 <tspan x="10" y="5066">s</tspan>
-<tspan x="10" y="5082">235.  2017-04-18 00:35:41 +0000      321 bytes  test/integration/custom-elements/index.js</tspan>
-<tspan x="10" y="5098">236.  2017-04-18 00:35:41 +0000     1554 bytes  test/integration/model/BpmnModdleSpec.js</tspan>
-<tspan x="10" y="5114">237.  2017-04-18 00:35:41 +0000      468 bytes  test/matchers/JSONMatcher.js</tspan>
-<tspan x="10" y="5130">238.  2017-04-18 00:35:41 +0000     8924 bytes  test/spec/ModelerSpec.js</tspan>
-<tspan x="10" y="5146">239.  2017-04-18 00:35:41 +0000     1156 bytes  test/spec/NavigatedViewerSpec.js</tspan>
-<tspan x="10" y="5162">240.  2017-04-18 00:35:41 +0000    22353 bytes  test/spec/ViewerSpec.js</tspan>
-<tspan x="10" y="5178">241.  2017-04-18 00:35:41 +0000     8783 bytes  test/spec/draw/BpmnRendererSpec.js</tspan>
-<tspan x="10" y="5194">242.  2017-04-18 00:35:41 +0000      966 bytes  test/spec/environment/MockingSpec.js</tspan>
-<tspan x="10" y="5210">243.  2017-04-18 00:35:41 +0000     4152 bytes  test/spec/features/align-elements/BpmnAlignEleme\</tspan>
+<tspan x="10" y="5082">235.  2017-04-18 00:36:45 +0000      321 bytes  test/integration/custom-elements/index.js</tspan>
+<tspan x="10" y="5098">236.  2017-04-18 00:36:45 +0000     1554 bytes  test/integration/model/BpmnModdleSpec.js</tspan>
+<tspan x="10" y="5114">237.  2017-04-18 00:36:45 +0000      468 bytes  test/matchers/JSONMatcher.js</tspan>
+<tspan x="10" y="5130">238.  2017-04-18 00:36:45 +0000     8924 bytes  test/spec/ModelerSpec.js</tspan>
+<tspan x="10" y="5146">239.  2017-04-18 00:36:45 +0000     1156 bytes  test/spec/NavigatedViewerSpec.js</tspan>
+<tspan x="10" y="5162">240.  2017-04-18 00:36:45 +0000    22353 bytes  test/spec/ViewerSpec.js</tspan>
+<tspan x="10" y="5178">241.  2017-04-18 00:36:45 +0000     8783 bytes  test/spec/draw/BpmnRendererSpec.js</tspan>
+<tspan x="10" y="5194">242.  2017-04-18 00:36:45 +0000      966 bytes  test/spec/environment/MockingSpec.js</tspan>
+<tspan x="10" y="5210">243.  2017-04-18 00:36:45 +0000     4152 bytes  test/spec/features/align-elements/BpmnAlignEleme\</tspan>
 <tspan x="10" y="5226">ntsSpec.js</tspan>
-<tspan x="10" y="5242">244.  2017-04-18 00:35:41 +0000     2700 bytes  test/spec/features/auto-resize/AutoResize.lanes.\</tspan>
+<tspan x="10" y="5242">244.  2017-04-18 00:36:45 +0000     2700 bytes  test/spec/features/auto-resize/AutoResize.lanes.\</tspan>
 <tspan x="10" y="5258">bpmn</tspan>
-<tspan x="10" y="5274">245.  2017-04-18 00:35:41 +0000     1181 bytes  test/spec/features/auto-resize/AutoResize.multi-\</tspan>
+<tspan x="10" y="5274">245.  2017-04-18 00:36:45 +0000     1181 bytes  test/spec/features/auto-resize/AutoResize.multi-\</tspan>
 <tspan x="10" y="5290">selection.bpmn</tspan>
-<tspan x="10" y="5306">246.  2017-04-18 00:35:41 +0000     2483 bytes  test/spec/features/auto-resize/AutoResize.nested\</tspan>
+<tspan x="10" y="5306">246.  2017-04-18 00:36:45 +0000     2483 bytes  test/spec/features/auto-resize/AutoResize.nested\</tspan>
 <tspan x="10" y="5322">-sub-processes.bpmn</tspan>
-<tspan x="10" y="5338">247.  2017-04-18 00:35:41 +0000     2007 bytes  test/spec/features/auto-resize/AutoResize.partic\</tspan>
+<tspan x="10" y="5338">247.  2017-04-18 00:36:45 +0000     2007 bytes  test/spec/features/auto-resize/AutoResize.partic\</tspan>
 <tspan x="10" y="5354">ipant.bpmn</tspan>
-<tspan x="10" y="5370">248.  2017-04-18 00:35:41 +0000     2082 bytes  test/spec/features/auto-resize/AutoResize.space-\</tspan>
+<tspan x="10" y="5370">248.  2017-04-18 00:36:45 +0000     2082 bytes  test/spec/features/auto-resize/AutoResize.space-\</tspan>
 <tspan x="10" y="5386">tool.bpmn</tspan>
-<tspan x="10" y="5402">249.  2017-04-18 00:35:41 +0000     1958 bytes  test/spec/features/auto-resize/AutoResize.sub-pr\</tspan>
+<tspan x="10" y="5402">249.  2017-04-18 00:36:45 +0000     1958 bytes  test/spec/features/auto-resize/AutoResize.sub-pr\</tspan>
 <tspan x="10" y="5418">ocesses.bpmn</tspan>
-<tspan x="10" y="5434">250.  2017-04-18 00:35:41 +0000    17324 bytes  test/spec/features/auto-resize/AutoResizeSpec.js</tspan>
-<tspan x="10" y="5450">251.  2017-04-18 00:35:41 +0000     3055 bytes  test/spec/features/context-pad/ContextPad.activa\</tspan>
+<tspan x="10" y="5434">250.  2017-04-18 00:36:45 +0000    17324 bytes  test/spec/features/auto-resize/AutoResizeSpec.js</tspan>
+<tspan x="10" y="5450">251.  2017-04-18 00:36:45 +0000     3055 bytes  test/spec/features/context-pad/ContextPad.activa\</tspan>
 <tspan x="10" y="5466">tion.bpmn</tspan>
-<tspan x="10" y="5482">252.  2017-04-18 00:35:41 +0000    11648 bytes  test/spec/features/context-pad/ContextPadProvide\</tspan>
+<tspan x="10" y="5482">252.  2017-04-18 00:36:45 +0000    11648 bytes  test/spec/features/context-pad/ContextPadProvide\</tspan>
 <tspan x="10" y="5498">rSpec.js</tspan>
-<tspan x="10" y="5514">253.  2017-04-18 00:35:41 +0000    20020 bytes  test/spec/features/copy-paste/BpmnCopyPasteSpec.\</tspan>
+<tspan x="10" y="5514">253.  2017-04-18 00:36:45 +0000    20020 bytes  test/spec/features/copy-paste/BpmnCopyPasteSpec.\</tspan>
 <tspan x="10" y="5530">js</tspan>
-<tspan x="10" y="5546">254.  2017-04-18 00:35:41 +0000     1021 bytes  test/spec/features/copy-paste/DescriptorTree.js</tspan>
-<tspan x="10" y="5562">255.  2017-04-18 00:35:41 +0000     2696 bytes  test/spec/features/distribute-elements/BpmnDistr\</tspan>
+<tspan x="10" y="5546">254.  2017-04-18 00:36:45 +0000     1021 bytes  test/spec/features/copy-paste/DescriptorTree.js</tspan>
+<tspan x="10" y="5562">255.  2017-04-18 00:36:45 +0000     2696 bytes  test/spec/features/distribute-elements/BpmnDistr\</tspan>
 <tspan x="10" y="5578">ibuteElementsSpec.js</tspan>
-<tspan x="10" y="5594">256.  2017-04-18 00:35:41 +0000     2016 bytes  test/spec/features/editor-actions/BpmnEditorActi\</tspan>
+<tspan x="10" y="5594">256.  2017-04-18 00:36:45 +0000     2016 bytes  test/spec/features/editor-actions/BpmnEditorActi\</tspan>
 <tspan x="10" y="5610">onsSpec.js</tspan>
-<tspan x="10" y="5626">257.  2017-04-18 00:35:41 +0000     1622 bytes  test/spec/features/global-connect/BpmnGlobalConn\</tspan>
+<tspan x="10" y="5626">257.  2017-04-18 00:36:45 +0000     1622 bytes  test/spec/features/global-connect/BpmnGlobalConn\</tspan>
 <tspan x="10" y="5642">ectSpec.js</tspan>
-<tspan x="10" y="5658">258.  2017-04-18 00:35:41 +0000     3343 bytes  test/spec/features/keyboard/BpmnKeyBindingsSpec.\</tspan>
+<tspan x="10" y="5658">258.  2017-04-18 00:36:45 +0000     3343 bytes  test/spec/features/keyboard/BpmnKeyBindingsSpec.\</tspan>
 <tspan x="10" y="5674">js</tspan>
-<tspan x="10" y="5690">259.  2017-04-18 00:35:41 +0000    17675 bytes  test/spec/features/label-editing/LabelEditingPro\</tspan>
+<tspan x="10" y="5690">259.  2017-04-18 00:36:45 +0000    17675 bytes  test/spec/features/label-editing/LabelEditingPro\</tspan>
 <tspan x="10" y="5706">viderSpec.js</tspan>
-<tspan x="10" y="5722">260.  2017-04-18 00:35:41 +0000      855 bytes  test/spec/features/label-editing/TouchIntegratio\</tspan>
+<tspan x="10" y="5722">260.  2017-04-18 00:36:45 +0000      855 bytes  test/spec/features/label-editing/TouchIntegratio\</tspan>
 <tspan x="10" y="5738">nSpec.js</tspan>
-<tspan x="10" y="5754">261.  2017-04-18 00:35:41 +0000    10378 bytes  test/spec/features/modeling/AppendShapeSpec.js</tspan>
-<tspan x="10" y="5770">262.  2017-04-18 00:35:41 +0000      653 bytes  test/spec/features/modeling/BendpointsSpec.js</tspan>
-<tspan x="10" y="5786">263.  2017-04-18 00:35:41 +0000     1831 bytes  test/spec/features/modeling/BpmnFactorySpec.js</tspan>
-<tspan x="10" y="5802">264.  2017-04-18 00:35:41 +0000     5097 bytes  test/spec/features/modeling/BpmnUpdater.bpmn</tspan>
-<tspan x="10" y="5818">265.  2017-04-18 00:35:41 +0000     2677 bytes  test/spec/features/modeling/BpmnUpdaterSpec.js</tspan>
-<tspan x="10" y="5834">266.  2017-04-18 00:35:41 +0000     4795 bytes  test/spec/features/modeling/CreateConnectionSpec\</tspan>
+<tspan x="10" y="5754">261.  2017-04-18 00:36:45 +0000    10378 bytes  test/spec/features/modeling/AppendShapeSpec.js</tspan>
+<tspan x="10" y="5770">262.  2017-04-18 00:36:45 +0000      653 bytes  test/spec/features/modeling/BendpointsSpec.js</tspan>
+<tspan x="10" y="5786">263.  2017-04-18 00:36:45 +0000     1831 bytes  test/spec/features/modeling/BpmnFactorySpec.js</tspan>
+<tspan x="10" y="5802">264.  2017-04-18 00:36:45 +0000     5097 bytes  test/spec/features/modeling/BpmnUpdater.bpmn</tspan>
+<tspan x="10" y="5818">265.  2017-04-18 00:36:45 +0000     2677 bytes  test/spec/features/modeling/BpmnUpdaterSpec.js</tspan>
+<tspan x="10" y="5834">266.  2017-04-18 00:36:45 +0000     4795 bytes  test/spec/features/modeling/CreateConnectionSpec\</tspan>
 <tspan x="10" y="5850">.js</tspan>
-<tspan x="10" y="5866">267.  2017-04-18 00:35:41 +0000     1820 bytes  test/spec/features/modeling/DeleteConnectionSpec\</tspan>
+<tspan x="10" y="5866">267.  2017-04-18 00:36:45 +0000     1820 bytes  test/spec/features/modeling/DeleteConnectionSpec\</tspan>
 <tspan x="10" y="5882">.js</tspan>
-<tspan x="10" y="5898">268.  2017-04-18 00:35:41 +0000     3096 bytes  test/spec/features/modeling/DeleteParticipantSpe\</tspan>
+<tspan x="10" y="5898">268.  2017-04-18 00:36:45 +0000     3096 bytes  test/spec/features/modeling/DeleteParticipantSpe\</tspan>
 <tspan x="10" y="5914">c.js</tspan>
-<tspan x="10" y="5930">269.  2017-04-18 00:35:41 +0000     1648 bytes  test/spec/features/modeling/DeleteShapeSpec.js</tspan>
-<tspan x="10" y="5946">270.  2017-04-18 00:35:41 +0000     3645 bytes  test/spec/features/modeling/DropSpec.js</tspan>
-<tspan x="10" y="5962">271.  2017-04-18 00:35:41 +0000      790 bytes  test/spec/features/modeling/IdClaim.bpmn</tspan>
-<tspan x="10" y="5978">272.  2017-04-18 00:35:41 +0000     1197 bytes  test/spec/features/modeling/IdClaimSpec.js</tspan>
-<tspan x="10" y="5994">273.  2017-04-18 00:35:41 +0000     8439 bytes  test/spec/features/modeling/LabelBoundsSpec.js</tspan>
-<tspan x="10" y="6010">274.  2017-04-18 00:35:41 +0000     1582 bytes  test/spec/features/modeling/LabelBoundsSpec.simp\</tspan>
+<tspan x="10" y="5930">269.  2017-04-18 00:36:45 +0000     1648 bytes  test/spec/features/modeling/DeleteShapeSpec.js</tspan>
+<tspan x="10" y="5946">270.  2017-04-18 00:36:45 +0000     3645 bytes  test/spec/features/modeling/DropSpec.js</tspan>
+<tspan x="10" y="5962">271.  2017-04-18 00:36:45 +0000      790 bytes  test/spec/features/modeling/IdClaim.bpmn</tspan>
+<tspan x="10" y="5978">272.  2017-04-18 00:36:45 +0000     1197 bytes  test/spec/features/modeling/IdClaimSpec.js</tspan>
+<tspan x="10" y="5994">273.  2017-04-18 00:36:45 +0000     8439 bytes  test/spec/features/modeling/LabelBoundsSpec.js</tspan>
+<tspan x="10" y="6010">274.  2017-04-18 00:36:45 +0000     1582 bytes  test/spec/features/modeling/LabelBoundsSpec.simp\</tspan>
 <tspan x="10" y="6026">le.bpmn</tspan>
-<tspan x="10" y="6042">275.  2017-04-18 00:35:41 +0000     2025 bytes  test/spec/features/modeling/LabelLayouting.initi\</tspan>
+<tspan x="10" y="6042">275.  2017-04-18 00:36:45 +0000     2025 bytes  test/spec/features/modeling/LabelLayouting.initi\</tspan>
 <tspan x="10" y="6058">al.bpmn</tspan>
-<tspan x="10" y="6074">276.  2017-04-18 00:35:41 +0000     5134 bytes  test/spec/features/modeling/LabelLayouting.move.\</tspan>
+<tspan x="10" y="6074">276.  2017-04-18 00:36:45 +0000     5134 bytes  test/spec/features/modeling/LabelLayouting.move.\</tspan>
 <tspan x="10" y="6090">bpmn</tspan>
-<tspan x="10" y="6106">277.  2017-04-18 00:35:41 +0000     4951 bytes  test/spec/features/modeling/LabelLayouting.speci\</tspan>
+<tspan x="10" y="6106">277.  2017-04-18 00:36:45 +0000     4951 bytes  test/spec/features/modeling/LabelLayouting.speci\</tspan>
 <tspan x="10" y="6122">al.bpmn</tspan>
-<tspan x="10" y="6138">278.  2017-04-18 00:35:41 +0000    16124 bytes  test/spec/features/modeling/LabelLayoutingSpec.j\</tspan>
+<tspan x="10" y="6138">278.  2017-04-18 00:36:45 +0000    16124 bytes  test/spec/features/modeling/LabelLayoutingSpec.j\</tspan>
 <tspan x="10" y="6154">s</tspan>
-<tspan x="10" y="6170">279.  2017-04-18 00:35:41 +0000     2670 bytes  test/spec/features/modeling/MoveConnectionSpec.j\</tspan>
+<tspan x="10" y="6170">279.  2017-04-18 00:36:45 +0000     2670 bytes  test/spec/features/modeling/MoveConnectionSpec.j\</tspan>
 <tspan x="10" y="6186">s</tspan>
-<tspan x="10" y="6202">280.  2017-04-18 00:35:41 +0000     2327 bytes  test/spec/features/modeling/MoveElements.flow-co\</tspan>
+<tspan x="10" y="6202">280.  2017-04-18 00:36:45 +0000     2327 bytes  test/spec/features/modeling/MoveElements.flow-co\</tspan>
 <tspan x="10" y="6218">llaboration.bpmn</tspan>
-<tspan x="10" y="6234">281.  2017-04-18 00:35:41 +0000     2019 bytes  test/spec/features/modeling/MoveElementsSpec.js</tspan>
-<tspan x="10" y="6250">282.  2017-04-18 00:35:41 +0000     4387 bytes  test/spec/features/modeling/MoveRulesSpec.js</tspan>
-<tspan x="10" y="6266">283.  2017-04-18 00:35:41 +0000     9026 bytes  test/spec/features/modeling/MoveShapeSpec.js</tspan>
-<tspan x="10" y="6282">284.  2017-04-18 00:35:41 +0000     1796 bytes  test/spec/features/modeling/ResizeShapeSpec.js</tspan>
-<tspan x="10" y="6298">285.  2017-04-18 00:35:41 +0000    13788 bytes  test/spec/features/modeling/SetColorSpec.js</tspan>
-<tspan x="10" y="6314">286.  2017-04-18 00:35:41 +0000     6610 bytes  test/spec/features/modeling/SpaceToolSpec.js</tspan>
-<tspan x="10" y="6330">287.  2017-04-18 00:35:41 +0000     2608 bytes  test/spec/features/modeling/UpdateAttachmentSpec\</tspan>
+<tspan x="10" y="6234">281.  2017-04-18 00:36:45 +0000     2019 bytes  test/spec/features/modeling/MoveElementsSpec.js</tspan>
+<tspan x="10" y="6250">282.  2017-04-18 00:36:45 +0000     4387 bytes  test/spec/features/modeling/MoveRulesSpec.js</tspan>
+<tspan x="10" y="6266">283.  2017-04-18 00:36:45 +0000     9026 bytes  test/spec/features/modeling/MoveShapeSpec.js</tspan>
+<tspan x="10" y="6282">284.  2017-04-18 00:36:45 +0000     1796 bytes  test/spec/features/modeling/ResizeShapeSpec.js</tspan>
+<tspan x="10" y="6298">285.  2017-04-18 00:36:45 +0000    13788 bytes  test/spec/features/modeling/SetColorSpec.js</tspan>
+<tspan x="10" y="6314">286.  2017-04-18 00:36:45 +0000     6610 bytes  test/spec/features/modeling/SpaceToolSpec.js</tspan>
+<tspan x="10" y="6330">287.  2017-04-18 00:36:45 +0000     2608 bytes  test/spec/features/modeling/UpdateAttachmentSpec\</tspan>
 <tspan x="10" y="6346">.js</tspan>
-<tspan x="10" y="6362">288.  2017-04-18 00:35:41 +0000     3337 bytes  test/spec/features/modeling/UpdateLabelSpec.js</tspan>
-<tspan x="10" y="6378">289.  2017-04-18 00:35:41 +0000    14668 bytes  test/spec/features/modeling/UpdatePropertiesSpec\</tspan>
+<tspan x="10" y="6362">288.  2017-04-18 00:36:45 +0000     3337 bytes  test/spec/features/modeling/UpdateLabelSpec.js</tspan>
+<tspan x="10" y="6378">289.  2017-04-18 00:36:45 +0000    14668 bytes  test/spec/features/modeling/UpdatePropertiesSpec\</tspan>
 <tspan x="10" y="6394">.js</tspan>
-<tspan x="10" y="6410">290.  2017-04-18 00:35:41 +0000     4263 bytes  test/spec/features/modeling/append/TextAnnotatio\</tspan>
+<tspan x="10" y="6410">290.  2017-04-18 00:36:45 +0000     4263 bytes  test/spec/features/modeling/append/TextAnnotatio\</tspan>
 <tspan x="10" y="6426">nSpec.js</tspan>
-<tspan x="10" y="6442">291.  2017-04-18 00:35:41 +0000     1514 bytes  test/spec/features/modeling/behavior/Compensatio\</tspan>
+<tspan x="10" y="6442">291.  2017-04-18 00:36:45 +0000     1514 bytes  test/spec/features/modeling/behavior/Compensatio\</tspan>
 <tspan x="10" y="6458">nAssociationBehavior.bpmn</tspan>
-<tspan x="10" y="6474">292.  2017-04-18 00:35:41 +0000     1022 bytes  test/spec/features/modeling/behavior/Compensatio\</tspan>
+<tspan x="10" y="6474">292.  2017-04-18 00:36:45 +0000     1022 bytes  test/spec/features/modeling/behavior/Compensatio\</tspan>
 <tspan x="10" y="6490">nAssociationBehaviorSpec.js</tspan>
-<tspan x="10" y="6506">293.  2017-04-18 00:35:41 +0000     1835 bytes  test/spec/features/modeling/behavior/CreateBound\</tspan>
+<tspan x="10" y="6506">293.  2017-04-18 00:36:45 +0000     1835 bytes  test/spec/features/modeling/behavior/CreateBound\</tspan>
 <tspan x="10" y="6522">aryEventBehaviorSpec.js</tspan>
-<tspan x="10" y="6538">294.  2017-04-18 00:35:41 +0000     7255 bytes  test/spec/features/modeling/behavior/CreateParti\</tspan>
+<tspan x="10" y="6538">294.  2017-04-18 00:36:45 +0000     7255 bytes  test/spec/features/modeling/behavior/CreateParti\</tspan>
 <tspan x="10" y="6554">cipantBehaviorSpec.js</tspan>
-<tspan x="10" y="6570">295.  2017-04-18 00:35:41 +0000     1862 bytes  test/spec/features/modeling/behavior/DataInputAs\</tspan>
+<tspan x="10" y="6570">295.  2017-04-18 00:36:45 +0000     1862 bytes  test/spec/features/modeling/behavior/DataInputAs\</tspan>
 <tspan x="10" y="6586">sociationBehavior.bpmn</tspan>
-<tspan x="10" y="6602">296.  2017-04-18 00:35:41 +0000     4104 bytes  test/spec/features/modeling/behavior/DataInputAs\</tspan>
+<tspan x="10" y="6602">296.  2017-04-18 00:36:45 +0000     4104 bytes  test/spec/features/modeling/behavior/DataInputAs\</tspan>
 <tspan x="10" y="6618">sociationBehaviorSpec.js</tspan>
-<tspan x="10" y="6634">297.  2017-04-18 00:35:41 +0000     1185 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
+<tspan x="10" y="6634">297.  2017-04-18 00:36:45 +0000     1185 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
 <tspan x="10" y="6650">ehavior.create-data-association.bpmn</tspan>
-<tspan x="10" y="6666">298.  2017-04-18 00:35:41 +0000      801 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
+<tspan x="10" y="6666">298.  2017-04-18 00:36:45 +0000      801 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
 <tspan x="10" y="6682">ehavior.data-object-reference.bpmn</tspan>
-<tspan x="10" y="6698">299.  2017-04-18 00:35:41 +0000     2245 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
+<tspan x="10" y="6698">299.  2017-04-18 00:36:45 +0000     2245 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
 <tspan x="10" y="6714">ehavior.remove-data-association.bpmn</tspan>
-<tspan x="10" y="6730">300.  2017-04-18 00:35:41 +0000     9065 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
+<tspan x="10" y="6730">300.  2017-04-18 00:36:45 +0000     9065 bytes  test/spec/features/modeling/behavior/DataObjectB\</tspan>
 <tspan x="10" y="6746">ehaviorSpec.js</tspan>
-<tspan x="10" y="6762">301.  2017-04-18 00:35:41 +0000     1680 bytes  test/spec/features/modeling/behavior/DataStoreBe\</tspan>
+<tspan x="10" y="6762">301.  2017-04-18 00:36:45 +0000     1680 bytes  test/spec/features/modeling/behavior/DataStoreBe\</tspan>
 <tspan x="10" y="6778">havior.bpmn</tspan>
-<tspan x="10" y="6794">302.  2017-04-18 00:35:41 +0000     3458 bytes  test/spec/features/modeling/behavior/DataStoreBe\</tspan>
+<tspan x="10" y="6794">302.  2017-04-18 00:36:45 +0000     3458 bytes  test/spec/features/modeling/behavior/DataStoreBe\</tspan>
 <tspan x="10" y="6810">havior.connect.bpmn</tspan>
-<tspan x="10" y="6826">303.  2017-04-18 00:35:41 +0000     7416 bytes  test/spec/features/modeling/behavior/DataStoreBe\</tspan>
+<tspan x="10" y="6826">303.  2017-04-18 00:36:45 +0000     7416 bytes  test/spec/features/modeling/behavior/DataStoreBe\</tspan>
 <tspan x="10" y="6842">haviorSpec.js</tspan>
-<tspan x="10" y="6858">304.  2017-04-18 00:35:41 +0000     3511 bytes  test/spec/features/modeling/behavior/DropOnFlowB\</tspan>
+<tspan x="10" y="6858">304.  2017-04-18 00:36:45 +0000     3511 bytes  test/spec/features/modeling/behavior/DropOnFlowB\</tspan>
 <tspan x="10" y="6874">ehavior.bpmn</tspan>
-<tspan x="10" y="6890">305.  2017-04-18 00:35:41 +0000    12686 bytes  test/spec/features/modeling/behavior/DropOnFlowB\</tspan>
+<tspan x="10" y="6890">305.  2017-04-18 00:36:45 +0000    12686 bytes  test/spec/features/modeling/behavior/DropOnFlowB\</tspan>
 <tspan x="10" y="6906">ehaviorSpec.js</tspan>
-<tspan x="10" y="6922">306.  2017-04-18 00:35:41 +0000     3221 bytes  test/spec/features/modeling/behavior/ImportDocki\</tspan>
+<tspan x="10" y="6922">306.  2017-04-18 00:36:45 +0000     3221 bytes  test/spec/features/modeling/behavior/ImportDocki\</tspan>
 <tspan x="10" y="6938">ngFix.bpmn</tspan>
-<tspan x="10" y="6954">307.  2017-04-18 00:35:41 +0000     1028 bytes  test/spec/features/modeling/behavior/ImportDocki\</tspan>
+<tspan x="10" y="6954">307.  2017-04-18 00:36:45 +0000     1028 bytes  test/spec/features/modeling/behavior/ImportDocki\</tspan>
 <tspan x="10" y="6970">ngFixSpec.js</tspan>
-<tspan x="10" y="6986">308.  2017-04-18 00:35:41 +0000     8109 bytes  test/spec/features/modeling/behavior/LabelBehavi\</tspan>
+<tspan x="10" y="6986">308.  2017-04-18 00:36:45 +0000     8109 bytes  test/spec/features/modeling/behavior/LabelBehavi\</tspan>
 <tspan x="10" y="7002">orSpec.js</tspan>
-<tspan x="10" y="7018">309.  2017-04-18 00:35:41 +0000     2274 bytes  test/spec/features/modeling/behavior/ReconnectCo\</tspan>
+<tspan x="10" y="7018">309.  2017-04-18 00:36:45 +0000     2274 bytes  test/spec/features/modeling/behavior/ReconnectCo\</tspan>
 <tspan x="10" y="7034">nnection.data-association.bpmn</tspan>
-<tspan x="10" y="7050">310.  2017-04-18 00:35:41 +0000     3690 bytes  test/spec/features/modeling/behavior/ReconnectCo\</tspan>
+<tspan x="10" y="7050">310.  2017-04-18 00:36:45 +0000     3690 bytes  test/spec/features/modeling/behavior/ReconnectCo\</tspan>
 <tspan x="10" y="7066">nnectionSpec.js</tspan>
-<tspan x="10" y="7082">311.  2017-04-18 00:35:41 +0000     9014 bytes  test/spec/features/modeling/behavior/RemoveEleme\</tspan>
+<tspan x="10" y="7082">311.  2017-04-18 00:36:45 +0000     9014 bytes  test/spec/features/modeling/behavior/RemoveEleme\</tspan>
 <tspan x="10" y="7098">ntBehavior.bpmn</tspan>
-<tspan x="10" y="7114">312.  2017-04-18 00:35:41 +0000     8033 bytes  test/spec/features/modeling/behavior/RemoveEleme\</tspan>
+<tspan x="10" y="7114">312.  2017-04-18 00:36:45 +0000     8033 bytes  test/spec/features/modeling/behavior/RemoveEleme\</tspan>
 <tspan x="10" y="7130">ntBehavior.perpendicular.bpmn</tspan>
-<tspan x="10" y="7146">313.  2017-04-18 00:35:41 +0000     6462 bytes  test/spec/features/modeling/behavior/RemoveEleme\</tspan>
+<tspan x="10" y="7146">313.  2017-04-18 00:36:45 +0000     6462 bytes  test/spec/features/modeling/behavior/RemoveEleme\</tspan>
 <tspan x="10" y="7162">ntBehaviorSpec.js</tspan>
-<tspan x="10" y="7178">314.  2017-04-18 00:35:41 +0000     3900 bytes  test/spec/features/modeling/behavior/RemoveParti\</tspan>
+<tspan x="10" y="7178">314.  2017-04-18 00:36:45 +0000     3900 bytes  test/spec/features/modeling/behavior/RemoveParti\</tspan>
 <tspan x="10" y="7194">cipantBehaviorSpec.js</tspan>
-<tspan x="10" y="7210">315.  2017-04-18 00:35:41 +0000     1931 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
+<tspan x="10" y="7210">315.  2017-04-18 00:36:45 +0000     1931 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
 <tspan x="10" y="7226">ectionBehavior.association.bpmn</tspan>
-<tspan x="10" y="7242">316.  2017-04-18 00:35:41 +0000     2142 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
+<tspan x="10" y="7242">316.  2017-04-18 00:36:45 +0000     2142 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
 <tspan x="10" y="7258">ectionBehavior.boundary-events.bpmn</tspan>
-<tspan x="10" y="7274">317.  2017-04-18 00:35:41 +0000     7488 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
+<tspan x="10" y="7274">317.  2017-04-18 00:36:45 +0000     7488 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
 <tspan x="10" y="7290">ectionBehavior.message-sequence-flow.bpmn</tspan>
-<tspan x="10" y="7306">318.  2017-04-18 00:35:41 +0000    12865 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
+<tspan x="10" y="7306">318.  2017-04-18 00:36:45 +0000    12865 bytes  test/spec/features/modeling/behavior/ReplaceConn\</tspan>
 <tspan x="10" y="7322">ectionBehaviorSpec.js</tspan>
-<tspan x="10" y="7338">319.  2017-04-18 00:35:41 +0000    14791 bytes  test/spec/features/modeling/behavior/ReplaceElem\</tspan>
+<tspan x="10" y="7338">319.  2017-04-18 00:36:45 +0000    14791 bytes  test/spec/features/modeling/behavior/ReplaceElem\</tspan>
 <tspan x="10" y="7354">entBehaviourSpec.js</tspan>
-<tspan x="10" y="7370">320.  2017-04-18 00:35:41 +0000    17320 bytes  test/spec/features/modeling/behavior/ToggleEleme\</tspan>
+<tspan x="10" y="7370">320.  2017-04-18 00:36:45 +0000    17320 bytes  test/spec/features/modeling/behavior/ToggleEleme\</tspan>
 <tspan x="10" y="7386">ntCollapseBehaviourSpec.js</tspan>
-<tspan x="10" y="7402">321.  2017-04-18 00:35:41 +0000     2619 bytes  test/spec/features/modeling/behavior/UnsetDefaul\</tspan>
+<tspan x="10" y="7402">321.  2017-04-18 00:36:45 +0000     2619 bytes  test/spec/features/modeling/behavior/UnsetDefaul\</tspan>
 <tspan x="10" y="7418">tFlowBehaviorSpec.bpmn</tspan>
-<tspan x="10" y="7434">322.  2017-04-18 00:35:41 +0000     2187 bytes  test/spec/features/modeling/behavior/UnsetDefaul\</tspan>
+<tspan x="10" y="7434">322.  2017-04-18 00:36:45 +0000     2187 bytes  test/spec/features/modeling/behavior/UnsetDefaul\</tspan>
 <tspan x="10" y="7450">tFlowBehaviorSpec.js</tspan>
-<tspan x="10" y="7466">323.  2017-04-18 00:35:41 +0000     3459 bytes  test/spec/features/modeling/behavior/util/Geomet\</tspan>
+<tspan x="10" y="7466">323.  2017-04-18 00:36:45 +0000     3459 bytes  test/spec/features/modeling/behavior/util/Geomet\</tspan>
 <tspan x="10" y="7482">ricUtilSpec.js</tspan>
-<tspan x="10" y="7498">324.  2017-04-18 00:35:41 +0000     6006 bytes  test/spec/features/modeling/behavior/util/LineAt\</tspan>
+<tspan x="10" y="7498">324.  2017-04-18 00:36:45 +0000     6006 bytes  test/spec/features/modeling/behavior/util/LineAt\</tspan>
 <tspan x="10" y="7514">tachmentUtilSpec.js</tspan>
-<tspan x="10" y="7530">325.  2017-04-18 00:35:41 +0000      829 bytes  test/spec/features/modeling/behavior/util/LineIn\</tspan>
+<tspan x="10" y="7530">325.  2017-04-18 00:36:45 +0000      829 bytes  test/spec/features/modeling/behavior/util/LineIn\</tspan>
 <tspan x="10" y="7546">tersectSpec.js</tspan>
-<tspan x="10" y="7562">326.  2017-04-18 00:35:41 +0000     7533 bytes  test/spec/features/modeling/lanes/AddLaneSpec.js</tspan>
-<tspan x="10" y="7578">327.  2017-04-18 00:35:41 +0000     3392 bytes  test/spec/features/modeling/lanes/DeleteLaneSpec\</tspan>
+<tspan x="10" y="7562">326.  2017-04-18 00:36:45 +0000     7533 bytes  test/spec/features/modeling/lanes/AddLaneSpec.js</tspan>
+<tspan x="10" y="7578">327.  2017-04-18 00:36:45 +0000     3392 bytes  test/spec/features/modeling/lanes/DeleteLaneSpec\</tspan>
 <tspan x="10" y="7594">.js</tspan>
-<tspan x="10" y="7610">328.  2017-04-18 00:35:41 +0000    12662 bytes  test/spec/features/modeling/lanes/ResizeLaneSpec\</tspan>
+<tspan x="10" y="7610">328.  2017-04-18 00:36:45 +0000    12662 bytes  test/spec/features/modeling/lanes/ResizeLaneSpec\</tspan>
 <tspan x="10" y="7626">.js</tspan>
-<tspan x="10" y="7642">329.  2017-04-18 00:35:41 +0000     6018 bytes  test/spec/features/modeling/lanes/SplitLaneSpec.\</tspan>
+<tspan x="10" y="7642">329.  2017-04-18 00:36:45 +0000     6018 bytes  test/spec/features/modeling/lanes/SplitLaneSpec.\</tspan>
 <tspan x="10" y="7658">js</tspan>
-<tspan x="10" y="7674">330.  2017-04-18 00:35:41 +0000     7524 bytes  test/spec/features/modeling/lanes/UpdateFlowNode\</tspan>
+<tspan x="10" y="7674">330.  2017-04-18 00:36:45 +0000     7524 bytes  test/spec/features/modeling/lanes/UpdateFlowNode\</tspan>
 <tspan x="10" y="7690">RefsSpec.js</tspan>
-<tspan x="10" y="7706">331.  2017-04-18 00:35:41 +0000     3386 bytes  test/spec/features/modeling/lanes/flowNodeRefs.b\</tspan>
+<tspan x="10" y="7706">331.  2017-04-18 00:36:45 +0000     3386 bytes  test/spec/features/modeling/lanes/flowNodeRefs.b\</tspan>
 <tspan x="10" y="7722">pmn</tspan>
-<tspan x="10" y="7738">332.  2017-04-18 00:35:41 +0000     5079 bytes  test/spec/features/modeling/lanes/lanes.bpmn</tspan>
-<tspan x="10" y="7754">333.  2017-04-18 00:35:41 +0000     1695 bytes  test/spec/features/modeling/lanes/participant-la\</tspan>
+<tspan x="10" y="7738">332.  2017-04-18 00:36:45 +0000     5079 bytes  test/spec/features/modeling/lanes/lanes.bpmn</tspan>
+<tspan x="10" y="7754">333.  2017-04-18 00:36:45 +0000     1695 bytes  test/spec/features/modeling/lanes/participant-la\</tspan>
 <tspan x="10" y="7770">ne.bpmn</tspan>
-<tspan x="10" y="7786">334.  2017-04-18 00:35:41 +0000     1486 bytes  test/spec/features/modeling/lanes/participant-no\</tspan>
+<tspan x="10" y="7786">334.  2017-04-18 00:36:45 +0000     1486 bytes  test/spec/features/modeling/lanes/participant-no\</tspan>
 <tspan x="10" y="7802">-lane.bpmn</tspan>
-<tspan x="10" y="7818">335.  2017-04-18 00:35:41 +0000     1802 bytes  test/spec/features/modeling/layout/Helper.js</tspan>
-<tspan x="10" y="7834">336.  2017-04-18 00:35:41 +0000     2761 bytes  test/spec/features/modeling/layout/LayoutAssocia\</tspan>
+<tspan x="10" y="7818">335.  2017-04-18 00:36:45 +0000     1802 bytes  test/spec/features/modeling/layout/Helper.js</tspan>
+<tspan x="10" y="7834">336.  2017-04-18 00:36:45 +0000     2761 bytes  test/spec/features/modeling/layout/LayoutAssocia\</tspan>
 <tspan x="10" y="7850">tionSpec.js</tspan>
-<tspan x="10" y="7866">337.  2017-04-18 00:35:41 +0000     2598 bytes  test/spec/features/modeling/layout/LayoutConnect\</tspan>
+<tspan x="10" y="7866">337.  2017-04-18 00:36:45 +0000     2598 bytes  test/spec/features/modeling/layout/LayoutConnect\</tspan>
 <tspan x="10" y="7882">ionSpec.js</tspan>
-<tspan x="10" y="7898">338.  2017-04-18 00:35:41 +0000     2555 bytes  test/spec/features/modeling/layout/LayoutDataAss\</tspan>
+<tspan x="10" y="7898">338.  2017-04-18 00:36:45 +0000     2555 bytes  test/spec/features/modeling/layout/LayoutDataAss\</tspan>
 <tspan x="10" y="7914">ociationSpec.js</tspan>
-<tspan x="10" y="7930">339.  2017-04-18 00:35:41 +0000     6923 bytes  test/spec/features/modeling/layout/LayoutMessage\</tspan>
+<tspan x="10" y="7930">339.  2017-04-18 00:36:45 +0000     6923 bytes  test/spec/features/modeling/layout/LayoutMessage\</tspan>
 <tspan x="10" y="7946">FlowSpec.bpmn</tspan>
-<tspan x="10" y="7962">340.  2017-04-18 00:35:41 +0000     8731 bytes  test/spec/features/modeling/layout/LayoutMessage\</tspan>
+<tspan x="10" y="7962">340.  2017-04-18 00:36:45 +0000     8731 bytes  test/spec/features/modeling/layout/LayoutMessage\</tspan>
 <tspan x="10" y="7978">FlowSpec.js</tspan>
-<tspan x="10" y="7994">341.  2017-04-18 00:35:41 +0000     3395 bytes  test/spec/features/modeling/layout/LayoutSequenc\</tspan>
+<tspan x="10" y="7994">341.  2017-04-18 00:36:45 +0000     3395 bytes  test/spec/features/modeling/layout/LayoutSequenc\</tspan>
 <tspan x="10" y="8010">eFlowSpec.boundaryEvents.bpmn</tspan>
-<tspan x="10" y="8026">342.  2017-04-18 00:35:41 +0000     3668 bytes  test/spec/features/modeling/layout/LayoutSequenc\</tspan>
+<tspan x="10" y="8026">342.  2017-04-18 00:36:45 +0000     3668 bytes  test/spec/features/modeling/layout/LayoutSequenc\</tspan>
 <tspan x="10" y="8042">eFlowSpec.flowElements.bpmn</tspan>
-<tspan x="10" y="8058">343.  2017-04-18 00:35:41 +0000     8051 bytes  test/spec/features/modeling/layout/LayoutSequenc\</tspan>
+<tspan x="10" y="8058">343.  2017-04-18 00:36:45 +0000     8051 bytes  test/spec/features/modeling/layout/LayoutSequenc\</tspan>
 <tspan x="10" y="8074">eFlowSpec.js</tspan>
-<tspan x="10" y="8090">344.  2017-04-18 00:35:41 +0000     5441 bytes  test/spec/features/ordering/BpmnOrderingProvider\</tspan>
+<tspan x="10" y="8090">344.  2017-04-18 00:36:45 +0000     5441 bytes  test/spec/features/ordering/BpmnOrderingProvider\</tspan>
 <tspan x="10" y="8106">Spec.js</tspan>
-<tspan x="10" y="8122">345.  2017-04-18 00:35:41 +0000     3577 bytes  test/spec/features/ordering/Helper.js</tspan>
-<tspan x="10" y="8138">346.  2017-04-18 00:35:41 +0000      962 bytes  test/spec/features/ordering/ordering-start-event\</tspan>
+<tspan x="10" y="8122">345.  2017-04-18 00:36:45 +0000     3577 bytes  test/spec/features/ordering/Helper.js</tspan>
+<tspan x="10" y="8138">346.  2017-04-18 00:36:45 +0000      962 bytes  test/spec/features/ordering/ordering-start-event\</tspan>
 <tspan x="10" y="8154">.bpmn</tspan>
-<tspan x="10" y="8170">347.  2017-04-18 00:35:41 +0000     2189 bytes  test/spec/features/ordering/ordering-subprocesse\</tspan>
+<tspan x="10" y="8170">347.  2017-04-18 00:36:45 +0000     2189 bytes  test/spec/features/ordering/ordering-subprocesse\</tspan>
 <tspan x="10" y="8186">s.bpmn</tspan>
-<tspan x="10" y="8202">348.  2017-04-18 00:35:41 +0000     6057 bytes  test/spec/features/ordering/ordering.bpmn</tspan>
-<tspan x="10" y="8218">349.  2017-04-18 00:35:41 +0000      875 bytes  test/spec/features/palette/PaletteProviderSpec.j\</tspan>
+<tspan x="10" y="8202">348.  2017-04-18 00:36:45 +0000     6057 bytes  test/spec/features/ordering/ordering.bpmn</tspan>
+<tspan x="10" y="8218">349.  2017-04-18 00:36:45 +0000      875 bytes  test/spec/features/palette/PaletteProviderSpec.j\</tspan>
 <tspan x="10" y="8234">s</tspan>
-<tspan x="10" y="8250">350.  2017-04-18 00:35:41 +0000      832 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8250">350.  2017-04-18 00:36:45 +0000      832 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8266">r.collapsedSubProcess.bpmn</tspan>
-<tspan x="10" y="8282">351.  2017-04-18 00:35:41 +0000      942 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8282">351.  2017-04-18 00:36:45 +0000      942 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8298">r.compensation-activity.bpmn</tspan>
-<tspan x="10" y="8314">352.  2017-04-18 00:35:41 +0000     3497 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8314">352.  2017-04-18 00:36:45 +0000     3497 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8330">r.conditionalFlows.bpmn</tspan>
-<tspan x="10" y="8346">353.  2017-04-18 00:35:41 +0000     6569 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8346">353.  2017-04-18 00:36:45 +0000     6569 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8362">r.defaultFlows.bpmn</tspan>
-<tspan x="10" y="8378">354.  2017-04-18 00:35:41 +0000     2533 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8378">354.  2017-04-18 00:36:45 +0000     2533 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8394">r.defaultFlowsFromComplexGateways.bpmn</tspan>
-<tspan x="10" y="8410">355.  2017-04-18 00:35:41 +0000     2547 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8410">355.  2017-04-18 00:36:45 +0000     2547 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8426">r.defaultFlowsFromInclusiveGateways.bpmn</tspan>
-<tspan x="10" y="8442">356.  2017-04-18 00:35:41 +0000    55920 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
+<tspan x="10" y="8442">356.  2017-04-18 00:36:45 +0000    55920 bytes  test/spec/features/popup-menu/ReplaceMenuProvide\</tspan>
 <tspan x="10" y="8458">rSpec.js</tspan>
-<tspan x="10" y="8474">357.  2017-04-18 00:35:41 +0000     9380 bytes  test/spec/features/replace-preview/BpmnReplacePr\</tspan>
+<tspan x="10" y="8474">357.  2017-04-18 00:36:45 +0000     9380 bytes  test/spec/features/replace-preview/BpmnReplacePr\</tspan>
 <tspan x="10" y="8490">eviewSpec.js</tspan>
-<tspan x="10" y="8506">358.  2017-04-18 00:35:41 +0000     3663 bytes  test/spec/features/replace/BpmnReplace.collabora\</tspan>
+<tspan x="10" y="8506">358.  2017-04-18 00:36:45 +0000     3663 bytes  test/spec/features/replace/BpmnReplace.collabora\</tspan>
 <tspan x="10" y="8522">tion.bpmn</tspan>
-<tspan x="10" y="8538">359.  2017-04-18 00:35:41 +0000      942 bytes  test/spec/features/replace/BpmnReplace.compensat\</tspan>
+<tspan x="10" y="8538">359.  2017-04-18 00:36:45 +0000      942 bytes  test/spec/features/replace/BpmnReplace.compensat\</tspan>
 <tspan x="10" y="8554">ion.bpmn</tspan>
-<tspan x="10" y="8570">360.  2017-04-18 00:35:41 +0000     6471 bytes  test/spec/features/replace/BpmnReplace.eventSubP\</tspan>
+<tspan x="10" y="8570">360.  2017-04-18 00:36:45 +0000     6471 bytes  test/spec/features/replace/BpmnReplace.eventSubP\</tspan>
 <tspan x="10" y="8586">rocesses.bpmn</tspan>
-<tspan x="10" y="8602">361.  2017-04-18 00:35:41 +0000    37790 bytes  test/spec/features/replace/BpmnReplaceSpec.js</tspan>
-<tspan x="10" y="8618">362.  2017-04-18 00:35:41 +0000     2118 bytes  test/spec/features/replace/ReplaceRulesSpec.js</tspan>
-<tspan x="10" y="8634">363.  2017-04-18 00:35:41 +0000     2221 bytes  test/spec/features/replace/SubProcess-collapsed.\</tspan>
+<tspan x="10" y="8602">361.  2017-04-18 00:36:45 +0000    37790 bytes  test/spec/features/replace/BpmnReplaceSpec.js</tspan>
+<tspan x="10" y="8618">362.  2017-04-18 00:36:45 +0000     2118 bytes  test/spec/features/replace/ReplaceRulesSpec.js</tspan>
+<tspan x="10" y="8634">363.  2017-04-18 00:36:45 +0000     2221 bytes  test/spec/features/replace/SubProcess-collapsed.\</tspan>
 <tspan x="10" y="8650">bpmn</tspan>
-<tspan x="10" y="8666">364.  2017-04-18 00:35:41 +0000     4856 bytes  test/spec/features/rules/BpmnRules.boundaryEvent\</tspan>
+<tspan x="10" y="8666">364.  2017-04-18 00:36:45 +0000     4856 bytes  test/spec/features/rules/BpmnRules.boundaryEvent\</tspan>
 <tspan x="10" y="8682">.bpmn</tspan>
-<tspan x="10" y="8698">365.  2017-04-18 00:35:41 +0000     2031 bytes  test/spec/features/rules/BpmnRules.collaboration\</tspan>
+<tspan x="10" y="8698">365.  2017-04-18 00:36:45 +0000     2031 bytes  test/spec/features/rules/BpmnRules.collaboration\</tspan>
 <tspan x="10" y="8714">-dataAssociation.bpmn</tspan>
-<tspan x="10" y="8730">366.  2017-04-18 00:35:41 +0000     4807 bytes  test/spec/features/rules/BpmnRules.collaboration\</tspan>
+<tspan x="10" y="8730">366.  2017-04-18 00:36:45 +0000     4807 bytes  test/spec/features/rules/BpmnRules.collaboration\</tspan>
 <tspan x="10" y="8746">-lanes.bpmn</tspan>
-<tspan x="10" y="8762">367.  2017-04-18 00:35:41 +0000     7326 bytes  test/spec/features/rules/BpmnRules.collaboration\</tspan>
+<tspan x="10" y="8762">367.  2017-04-18 00:36:45 +0000     7326 bytes  test/spec/features/rules/BpmnRules.collaboration\</tspan>
 <tspan x="10" y="8778">.bpmn</tspan>
-<tspan x="10" y="8794">368.  2017-04-18 00:35:41 +0000     3928 bytes  test/spec/features/rules/BpmnRules.compensation.\</tspan>
+<tspan x="10" y="8794">368.  2017-04-18 00:36:45 +0000     3928 bytes  test/spec/features/rules/BpmnRules.compensation.\</tspan>
 <tspan x="10" y="8810">bpmn</tspan>
-<tspan x="10" y="8826">369.  2017-04-18 00:35:41 +0000     1830 bytes  test/spec/features/rules/BpmnRules.dataAssociati\</tspan>
+<tspan x="10" y="8826">369.  2017-04-18 00:36:45 +0000     1830 bytes  test/spec/features/rules/BpmnRules.dataAssociati\</tspan>
 <tspan x="10" y="8842">on.bpmn</tspan>
-<tspan x="10" y="8858">370.  2017-04-18 00:35:41 +0000     4756 bytes  test/spec/features/rules/BpmnRules.eventBasedGat\</tspan>
+<tspan x="10" y="8858">370.  2017-04-18 00:36:45 +0000     4756 bytes  test/spec/features/rules/BpmnRules.eventBasedGat\</tspan>
 <tspan x="10" y="8874">eway.bpmn</tspan>
-<tspan x="10" y="8890">371.  2017-04-18 00:35:41 +0000     1622 bytes  test/spec/features/rules/BpmnRules.messageFlow.b\</tspan>
+<tspan x="10" y="8890">371.  2017-04-18 00:36:45 +0000     1622 bytes  test/spec/features/rules/BpmnRules.messageFlow.b\</tspan>
 <tspan x="10" y="8906">pmn</tspan>
-<tspan x="10" y="8922">372.  2017-04-18 00:35:41 +0000     2095 bytes  test/spec/features/rules/BpmnRules.multiSelectio\</tspan>
+<tspan x="10" y="8922">372.  2017-04-18 00:36:45 +0000     2095 bytes  test/spec/features/rules/BpmnRules.multiSelectio\</tspan>
 <tspan x="10" y="8938">nPools.bpmn</tspan>
-<tspan x="10" y="8954">373.  2017-04-18 00:35:41 +0000     5240 bytes  test/spec/features/rules/BpmnRules.process.bpmn</tspan>
-<tspan x="10" y="8970">374.  2017-04-18 00:35:41 +0000     2459 bytes  test/spec/features/rules/BpmnRules.subProcess-da\</tspan>
+<tspan x="10" y="8954">373.  2017-04-18 00:36:45 +0000     5240 bytes  test/spec/features/rules/BpmnRules.process.bpmn</tspan>
+<tspan x="10" y="8970">374.  2017-04-18 00:36:45 +0000     2459 bytes  test/spec/features/rules/BpmnRules.subProcess-da\</tspan>
 <tspan x="10" y="8986">taAssociation.bpmn</tspan>
-<tspan x="10" y="9002">375.  2017-04-18 00:35:41 +0000    36546 bytes  test/spec/features/rules/BpmnRulesSpec.js</tspan>
-<tspan x="10" y="9018">376.  2017-04-18 00:35:41 +0000     1844 bytes  test/spec/features/rules/Helper.js</tspan>
-<tspan x="10" y="9034">377.  2017-04-18 00:35:41 +0000     3615 bytes  test/spec/features/search/BpmnSearchProviderSpec\</tspan>
+<tspan x="10" y="9002">375.  2017-04-18 00:36:45 +0000    36546 bytes  test/spec/features/rules/BpmnRulesSpec.js</tspan>
+<tspan x="10" y="9018">376.  2017-04-18 00:36:45 +0000     1844 bytes  test/spec/features/rules/Helper.js</tspan>
+<tspan x="10" y="9034">377.  2017-04-18 00:36:45 +0000     3615 bytes  test/spec/features/search/BpmnSearchProviderSpec\</tspan>
 <tspan x="10" y="9050">.js</tspan>
-<tspan x="10" y="9066">378.  2017-04-18 00:35:41 +0000     5982 bytes  test/spec/features/search/bpmn-search-collaborat\</tspan>
+<tspan x="10" y="9066">378.  2017-04-18 00:36:45 +0000     5982 bytes  test/spec/features/search/bpmn-search-collaborat\</tspan>
 <tspan x="10" y="9082">ion.bpmn</tspan>
-<tspan x="10" y="9098">379.  2017-04-18 00:35:41 +0000     5616 bytes  test/spec/features/search/bpmn-search.bpmn</tspan>
-<tspan x="10" y="9114">380.  2017-04-18 00:35:41 +0000     1955 bytes  test/spec/features/snapping/BpmnSnapping.connect\</tspan>
+<tspan x="10" y="9098">379.  2017-04-18 00:36:45 +0000     5616 bytes  test/spec/features/search/bpmn-search.bpmn</tspan>
+<tspan x="10" y="9114">380.  2017-04-18 00:36:45 +0000     1955 bytes  test/spec/features/snapping/BpmnSnapping.connect\</tspan>
 <tspan x="10" y="9130">.bpmn</tspan>
-<tspan x="10" y="9146">381.  2017-04-18 00:35:41 +0000     1458 bytes  test/spec/features/snapping/BpmnSnapping.labels.\</tspan>
+<tspan x="10" y="9146">381.  2017-04-18 00:36:45 +0000     1458 bytes  test/spec/features/snapping/BpmnSnapping.labels.\</tspan>
 <tspan x="10" y="9162">bpmn</tspan>
-<tspan x="10" y="9178">382.  2017-04-18 00:35:41 +0000     2204 bytes  test/spec/features/snapping/BpmnSnapping.lanes-r\</tspan>
+<tspan x="10" y="9178">382.  2017-04-18 00:36:45 +0000     2204 bytes  test/spec/features/snapping/BpmnSnapping.lanes-r\</tspan>
 <tspan x="10" y="9194">esize.bpmn</tspan>
-<tspan x="10" y="9210">383.  2017-04-18 00:35:41 +0000     2738 bytes  test/spec/features/snapping/BpmnSnapping.partici\</tspan>
+<tspan x="10" y="9210">383.  2017-04-18 00:36:45 +0000     2738 bytes  test/spec/features/snapping/BpmnSnapping.partici\</tspan>
 <tspan x="10" y="9226">pant-resize.bpmn</tspan>
-<tspan x="10" y="9242">384.  2017-04-18 00:35:41 +0000     1137 bytes  test/spec/features/snapping/BpmnSnapping.subProc\</tspan>
+<tspan x="10" y="9242">384.  2017-04-18 00:36:45 +0000     1137 bytes  test/spec/features/snapping/BpmnSnapping.subProc\</tspan>
 <tspan x="10" y="9258">ess-resize.bpmn</tspan>
-<tspan x="10" y="9274">385.  2017-04-18 00:35:41 +0000     1297 bytes  test/spec/features/snapping/BpmnSnapping.textAnn\</tspan>
+<tspan x="10" y="9274">385.  2017-04-18 00:36:45 +0000     1297 bytes  test/spec/features/snapping/BpmnSnapping.textAnn\</tspan>
 <tspan x="10" y="9290">otation-resize.bpmn</tspan>
-<tspan x="10" y="9306">386.  2017-04-18 00:35:41 +0000    20727 bytes  test/spec/features/snapping/BpmnSnappingSpec.js</tspan>
-<tspan x="10" y="9322">387.  2017-04-18 00:35:41 +0000     4958 bytes  test/spec/features/snapping/BpmnSnappingUtil.lan\</tspan>
+<tspan x="10" y="9306">386.  2017-04-18 00:36:45 +0000    20727 bytes  test/spec/features/snapping/BpmnSnappingSpec.js</tspan>
+<tspan x="10" y="9322">387.  2017-04-18 00:36:45 +0000     4958 bytes  test/spec/features/snapping/BpmnSnappingUtil.lan\</tspan>
 <tspan x="10" y="9338">es-flowNodes.bpmn</tspan>
-<tspan x="10" y="9354">388.  2017-04-18 00:35:41 +0000     2314 bytes  test/spec/features/snapping/BpmnSnappingUtil.lan\</tspan>
+<tspan x="10" y="9354">388.  2017-04-18 00:36:45 +0000     2314 bytes  test/spec/features/snapping/BpmnSnappingUtil.lan\</tspan>
 <tspan x="10" y="9370">es.bpmn</tspan>
-<tspan x="10" y="9386">389.  2017-04-18 00:35:41 +0000     7056 bytes  test/spec/features/snapping/BpmnSnappingUtilSpec\</tspan>
+<tspan x="10" y="9386">389.  2017-04-18 00:36:45 +0000     7056 bytes  test/spec/features/snapping/BpmnSnappingUtilSpec\</tspan>
 <tspan x="10" y="9402">.js</tspan>
-<tspan x="10" y="9418">390.  2017-04-18 00:35:41 +0000      356 bytes  test/spec/i18n/custom-translate/custom-translate\</tspan>
+<tspan x="10" y="9418">390.  2017-04-18 00:36:45 +0000      356 bytes  test/spec/i18n/custom-translate/custom-translate\</tspan>
 <tspan x="10" y="9434">.js</tspan>
-<tspan x="10" y="9450">391.  2017-04-18 00:35:41 +0000       77 bytes  test/spec/i18n/custom-translate/index.js</tspan>
-<tspan x="10" y="9466">392.  2017-04-18 00:35:41 +0000     1360 bytes  test/spec/i18n/translateSpec.js</tspan>
-<tspan x="10" y="9482">393.  2017-04-18 00:35:41 +0000    11881 bytes  test/spec/import/ImporterSpec.js</tspan>
-<tspan x="10" y="9498">394.  2017-04-18 00:35:41 +0000     5153 bytes  test/spec/import/ModelWiringSpec.js</tspan>
-<tspan x="10" y="9514">395.  2017-04-18 00:35:41 +0000     3206 bytes  test/spec/import/elements/AssociationSpec.collab\</tspan>
+<tspan x="10" y="9450">391.  2017-04-18 00:36:45 +0000       77 bytes  test/spec/i18n/custom-translate/index.js</tspan>
+<tspan x="10" y="9466">392.  2017-04-18 00:36:45 +0000     1360 bytes  test/spec/i18n/translateSpec.js</tspan>
+<tspan x="10" y="9482">393.  2017-04-18 00:36:45 +0000    11881 bytes  test/spec/import/ImporterSpec.js</tspan>
+<tspan x="10" y="9498">394.  2017-04-18 00:36:45 +0000     5153 bytes  test/spec/import/ModelWiringSpec.js</tspan>
+<tspan x="10" y="9514">395.  2017-04-18 00:36:45 +0000     3206 bytes  test/spec/import/elements/AssociationSpec.collab\</tspan>
 <tspan x="10" y="9530">oration.bpmn</tspan>
-<tspan x="10" y="9546">396.  2017-04-18 00:35:41 +0000     2034 bytes  test/spec/import/elements/AssociationSpec.compen\</tspan>
+<tspan x="10" y="9546">396.  2017-04-18 00:36:45 +0000     2034 bytes  test/spec/import/elements/AssociationSpec.compen\</tspan>
 <tspan x="10" y="9562">sation.bpmn</tspan>
-<tspan x="10" y="9578">397.  2017-04-18 00:35:41 +0000     2654 bytes  test/spec/import/elements/AssociationSpec.data-a\</tspan>
+<tspan x="10" y="9578">397.  2017-04-18 00:36:45 +0000     2654 bytes  test/spec/import/elements/AssociationSpec.data-a\</tspan>
 <tspan x="10" y="9594">ssociation.bpmn</tspan>
-<tspan x="10" y="9610">398.  2017-04-18 00:35:41 +0000     2576 bytes  test/spec/import/elements/AssociationSpec.data-i\</tspan>
+<tspan x="10" y="9610">398.  2017-04-18 00:36:45 +0000     2576 bytes  test/spec/import/elements/AssociationSpec.data-i\</tspan>
 <tspan x="10" y="9626">nput-output.bpmn</tspan>
-<tspan x="10" y="9642">399.  2017-04-18 00:35:41 +0000     2770 bytes  test/spec/import/elements/AssociationSpec.events\</tspan>
+<tspan x="10" y="9642">399.  2017-04-18 00:36:45 +0000     2770 bytes  test/spec/import/elements/AssociationSpec.events\</tspan>
 <tspan x="10" y="9658">.bpmn</tspan>
-<tspan x="10" y="9674">400.  2017-04-18 00:35:41 +0000     3231 bytes  test/spec/import/elements/AssociationSpec.js</tspan>
-<tspan x="10" y="9690">401.  2017-04-18 00:35:41 +0000     2683 bytes  test/spec/import/elements/AssociationSpec.text-a\</tspan>
+<tspan x="10" y="9674">400.  2017-04-18 00:36:45 +0000     3231 bytes  test/spec/import/elements/AssociationSpec.js</tspan>
+<tspan x="10" y="9690">401.  2017-04-18 00:36:45 +0000     2683 bytes  test/spec/import/elements/AssociationSpec.text-a\</tspan>
 <tspan x="10" y="9706">nnotation.bpmn</tspan>
-<tspan x="10" y="9722">402.  2017-04-18 00:35:41 +0000     3822 bytes  test/spec/import/elements/CollapsedSpec.js</tspan>
-<tspan x="10" y="9738">403.  2017-04-18 00:35:41 +0000     2207 bytes  test/spec/import/elements/LabelSpec.js</tspan>
-<tspan x="10" y="9754">404.  2017-04-18 00:35:41 +0000     2615 bytes  test/spec/import/lane-flowNodes.bpmn</tspan>
-<tspan x="10" y="9770">405.  2017-04-18 00:35:41 +0000     1652 bytes  test/spec/import/lane-missing-flowNodeRef.bpmn</tspan>
-<tspan x="10" y="9786">406.  2017-04-18 00:35:41 +0000    11914 bytes  test/spec/util/ModelCloneHelperSpec.js</tspan>
-<tspan x="10" y="9802">407.  2017-04-18 00:35:41 +0000     1699 bytes  test/spec/util/ModelUtilSpec.js</tspan>
-<tspan x="10" y="9818">408.  2017-04-18 00:35:41 +0000     2190 bytes  test/spec/util/camunda-moddle.js</tspan>
-<tspan x="10" y="9834">409.  2017-04-18 00:35:41 +0000     1321 bytes  test/util/MockEvents.js</tspan>
-<tspan x="10" y="9850">410.  2017-04-18 00:35:41 +0000     2458 bytes  test/util/ModelingUtil.js</tspan>
-<tspan x="10" y="9866">411.  2017-04-18 00:35:41 +0000      369 bytes  test/util/custom-rules/CustomRules.js</tspan>
-<tspan x="10" y="9882">412.  2017-04-18 00:35:41 +0000      105 bytes  test/util/custom-rules/index.js</tspan>
+<tspan x="10" y="9722">402.  2017-04-18 00:36:45 +0000     3822 bytes  test/spec/import/elements/CollapsedSpec.js</tspan>
+<tspan x="10" y="9738">403.  2017-04-18 00:36:45 +0000     2207 bytes  test/spec/import/elements/LabelSpec.js</tspan>
+<tspan x="10" y="9754">404.  2017-04-18 00:36:45 +0000     2615 bytes  test/spec/import/lane-flowNodes.bpmn</tspan>
+<tspan x="10" y="9770">405.  2017-04-18 00:36:45 +0000     1652 bytes  test/spec/import/lane-missing-flowNodeRef.bpmn</tspan>
+<tspan x="10" y="9786">406.  2017-04-18 00:36:45 +0000    11914 bytes  test/spec/util/ModelCloneHelperSpec.js</tspan>
+<tspan x="10" y="9802">407.  2017-04-18 00:36:45 +0000     1699 bytes  test/spec/util/ModelUtilSpec.js</tspan>
+<tspan x="10" y="9818">408.  2017-04-18 00:36:45 +0000     2190 bytes  test/spec/util/camunda-moddle.js</tspan>
+<tspan x="10" y="9834">409.  2017-04-18 00:36:45 +0000     1321 bytes  test/util/MockEvents.js</tspan>
+<tspan x="10" y="9850">410.  2017-04-18 00:36:45 +0000     2458 bytes  test/util/ModelingUtil.js</tspan>
+<tspan x="10" y="9866">411.  2017-04-18 00:36:45 +0000      369 bytes  test/util/custom-rules/CustomRules.js</tspan>
+<tspan x="10" y="9882">412.  2017-04-18 00:36:45 +0000      105 bytes  test/util/custom-rules/index.js</tspan>
 </text>
 </svg>
