@@ -1,0 +1,34 @@
+<svg height="494" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="494" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">14 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ bpmn-js@0.20.5 </tspan>
+<tspan x="10" y="90">  ├─┬ bpmn-moddle@0.14.0 </tspan>
+<tspan x="10" y="106">  │ ├── moddle@1.0.0 </tspan>
+<tspan x="10" y="122">  │ └─┬ moddle-xml@1.0.0 </tspan>
+<tspan x="10" y="138">  │   ├── sax@0.6.1 </tspan>
+<tspan x="10" y="154">  │   └── tiny-stack@0.1.0 </tspan>
+<tspan x="10" y="170">  ├─┬ diagram-js@0.19.3 </tspan>
+<tspan x="10" y="186">  │ ├── didi@0.1.1 </tspan>
+<tspan x="10" y="202">  │ └── hammerjs@2.0.8 </tspan>
+<tspan x="10" y="218">  ├── diagram-js-direct-editing@0.17.1 </tspan>
+<tspan x="10" y="234">  ├── diagram-js-origin@0.15.2 </tspan>
+<tspan x="10" y="250">  ├─┬ ids@0.2.0 </tspan>
+<tspan x="10" y="266">  │ └── hat@0.0.3 </tspan>
+<tspan x="10" y="282">  ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="298">  ├── lodash@3.10.1 </tspan>
+<tspan x="10" y="314">  ├─┬ min-dom@0.2.0 </tspan>
+<tspan x="10" y="330">  │ ├─┬ component-classes@1.2.6 </tspan>
+<tspan x="10" y="346">  │ │ └── component-indexof@0.0.3 </tspan>
+<tspan x="10" y="362">  │ ├── component-closest@0.1.4 </tspan>
+<tspan x="10" y="378">  │ ├── component-delegate@0.2.4 </tspan>
+<tspan x="10" y="394">  │ ├── component-event@0.1.4 </tspan>
+<tspan x="10" y="410">  │ ├── component-matches-selector@0.1.6 </tspan>
+<tspan x="10" y="426">  │ ├── component-query@0.0.3 </tspan>
+<tspan x="10" y="442">  │ └── domify@1.4.0 </tspan>
+<tspan x="10" y="458">  ├── object-refs@0.1.1 </tspan>
+<tspan x="10" y="474">  └── tiny-svg@0.1.1</tspan>
+</text>
+</svg>
