@@ -1,4 +1,7 @@
-# test coverage for  [bpmn-js (v0.20.5)](https://github.com/bpmn-io/bpmn-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-bpmn-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bpmn-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bpmn-js.svg)](https://travis-ci.org/npmtest/node-npmtest-bpmn-js)
+# npmtest-bpmn-js
+
+#### basic test coverage for  bpmn-js (v0.20.5)  [![npm package](https://img.shields.io/npm/v/npmtest-bpmn-js.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-bpmn-js) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-bpmn-js.svg)](https://travis-ci.org/npmtest/node-npmtest-bpmn-js)
+
 #### A bpmn 2.0 toolkit and web modeler
 
 [![NPM](https://nodei.co/npm/bpmn-js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/bpmn-js)
@@ -32,12 +35,32 @@
 ```json
 
 {
+    "name": "bpmn-js",
+    "version": "0.20.5",
+    "description": "A bpmn 2.0 toolkit and web modeler",
+    "scripts": {
+        "all": "grunt",
+        "dev": "grunt auto-test",
+        "distro": "grunt build",
+        "test": "grunt test",
+        "lint": "grunt lint"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bpmn-io/bpmn-js"
+    },
+    "keywords": [
+        "bpmn",
+        "bpmn-js",
+        "toolkit",
+        "web modeler",
+        "modeler",
+        "modeling",
+        "process modeling"
+    ],
     "author": {
         "name": "Nico Rehwaldt",
         "url": "https://github.com/nikku"
-    },
-    "bugs": {
-        "url": "https://github.com/bpmn-io/bpmn-js/issues"
     },
     "contributors": [
         {
@@ -45,19 +68,7 @@
             "url": "https://github.com/bpmn-io"
         }
     ],
-    "dependencies": {
-        "bpmn-moddle": "^0.14.0",
-        "diagram-js": "^0.19.3",
-        "diagram-js-direct-editing": "^0.17.1",
-        "diagram-js-origin": "^0.15.1",
-        "ids": "^0.2.0",
-        "inherits": "^2.0.1",
-        "lodash": "^3.0.1",
-        "min-dom": "^0.2.0",
-        "object-refs": "^0.1.1",
-        "tiny-svg": "^0.1.1"
-    },
-    "description": "A bpmn 2.0 toolkit and web modeler",
+    "license": "SEE LICENSE IN LICENSE",
     "devDependencies": {
         "browserify": "^13.0.0",
         "browserify-derequire": "^0.9.1",
@@ -96,51 +107,19 @@
         "uglify-js": "^2.4.16",
         "watchify": "^3.7.0"
     },
-    "directories": {},
-    "dist": {
-        "shasum": "4a7f8e8809cc88ad80d0635663902475b7fe73eb",
-        "tarball": "https://registry.npmjs.org/bpmn-js/-/bpmn-js-0.20.5.tgz"
+    "dependencies": {
+        "bpmn-moddle": "^0.14.0",
+        "diagram-js": "^0.19.3",
+        "diagram-js-direct-editing": "^0.17.1",
+        "diagram-js-origin": "^0.15.1",
+        "ids": "^0.2.0",
+        "inherits": "^2.0.1",
+        "lodash": "^3.0.1",
+        "min-dom": "^0.2.0",
+        "object-refs": "^0.1.1",
+        "tiny-svg": "^0.1.1"
     },
-    "gitHead": "8e64fc3a8b630d8d57da420ba85ab0ee9d831d9a",
-    "homepage": "https://github.com/bpmn-io/bpmn-js#readme",
-    "keywords": [
-        "bpmn",
-        "bpmn-js",
-        "toolkit",
-        "web modeler",
-        "modeler",
-        "modeling",
-        "process modeling"
-    ],
-    "license": "SEE LICENSE IN LICENSE",
-    "maintainers": [
-        {
-            "name": "nikku"
-        },
-        {
-            "name": "iso50"
-        },
-        {
-            "name": "bpmn-io"
-        },
-        {
-            "name": "ricardomatias"
-        }
-    ],
-    "name": "bpmn-js",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/bpmn-io/bpmn-js.git"
-    },
-    "scripts": {
-        "all": "grunt",
-        "dev": "grunt auto-test",
-        "distro": "grunt build",
-        "lint": "grunt lint",
-        "test": "grunt test"
-    },
-    "version": "0.20.5"
+    "bin": {}
 }
 ```
 
